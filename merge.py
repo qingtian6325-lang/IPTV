@@ -4,7 +4,7 @@ import concurrent.futures
 
 # ================= 配置区 =================
 TIMEOUT = 10          # 每个链接的超时时间（秒），越短过滤越严格
-MAX_WORKERS = 20     # 多线程数量（并发数），数值越大检测越快，但不要设置过高以免被服务器拉黑
+MAX_WORKERS = 35     # 多线程数量（并发数），数值越大检测越快，但不要设置过高以免被服务器拉黑
 OUTPUT_FILE = "mytv.m3u"
 
 sources = {
