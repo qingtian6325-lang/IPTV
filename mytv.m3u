@@ -325,6 +325,8 @@ https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe023
 https://stream1.freetv.fun/3303ba34b6316e04ed6f52b7e41fcdc200a1a2f84947337d91efae5b0ca2bd7f.ctv
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Singapore",[BD]Cinemaworld *tv[geo-blocked]
 https://stream1.freetv.fun/7d1616fe237d2fd8d9332fe8cdacad7f7160f165750f68aef40cfc05fb1f31c0.ctv
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603000646301106_58.png" group-title="Singapore",[BD]cinemaworld[geo-blocked]
+https://stream1.freetv.fun/a87af5c874244a11fb0e9e24e07332fb1d33bb3f39850262309f4ee1d4040369.ctv
 #EXTINF:-1 tvg-name="Hits(TW)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Singapore",[BD]xite hits
 https://stream1.freetv.fun/350a54a564633d554db45e511483c39c085a55ddf1336bfc308ee1c6a1f75c66.m3u8
 #EXTINF:-1 tvg-name="Hits(TW)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Singapore",[BD]xite hits
@@ -525,16 +527,12 @@ https://cdn16.163189.xyz/163189/cwjd
 https://cdn16.163189.xyz/163189/gzzh
 #EXTINF:-1 tvg-name="广州新闻" group-title="backup",广州新闻
 https://cdn16.163189.xyz/163189/gzxw
-#EXTINF:-1 tvg-name="南国都市4K" group-title="backup",广州南国都市
-https://cdn15.163189.xyz/163189/ngds
 #EXTINF:-1 tvg-name="五星体育" group-title="backup",五星体育
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="民視影劇台" group-title="backup",民视影剧台
 https://cdn12.178.indevs.in/163189/msyj
 #EXTINF:-1 tvg-name="公視戲劇" group-title="backup",公视戏剧
 https://cdn12.178.indevs.in/163189/gsxj
-#EXTINF:-1 tvg-name="采昌影劇台" group-title="backup",采昌影剧台
-https://cdn12.178.indevs.in/163189/ccyj
 #EXTINF:-1 tvg-name="靖天映畫" group-title="backup",靖天映画
 https://cdn12.178.indevs.in/163189/jtyh
 #EXTINF:-1 tvg-name="靖天戲劇台" group-title="backup",靖天戏剧台
@@ -547,6 +545,8 @@ https://cdn12.178.indevs.in/163189/jyxj
 https://cdn12.178.indevs.in/163189/ymswdyt
 #EXTINF:-1 tvg-name="amc電影台" group-title="backup",amc电影台
 https://cdn12.178.indevs.in/163189/amc
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="backup",CinemaWorld
+https://cdn12.178.indevs.in/163189/cinemaworld
 #EXTINF:-1 tvg-name="My Cinema Europe" group-title="backup",My Cinema Europe
 https://cdn12.178.indevs.in/163189/mce
 #EXTINF:-1 tvg-name="經典電影台" group-title="backup",经典电影台
