@@ -4,30 +4,38 @@ on:
   schedule:
     - cron: "0 */3 * * *"
   workflow_dispatch:
-  
+
 permissions:
   contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.12"
+          python-version: "3.13"
 
-      - name: Install Requests
+      - name: Install dependencies
         run: pip install requests
 
-      - name: Run Script
+      - name: Generate M3U
         run: python merge.py
 
-      - name: Commit Files
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Auto update IPTV
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add mytv.m3u
+
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+          git commit -m "Auto update IPTV"
+
+          git push
