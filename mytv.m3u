@@ -249,7 +249,7 @@ https://stream1.freetv.fun/2dcd0a971e2b04710d66ab15beb84b231fa3e3b93c27802d2b279
 https://stream1.freetv.fun/6fd9ebf3c519ad0ee9acc59537f7e794aeb3a8d64aab2f1b1261856b0327dad4.ctv
 #EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="397402" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/10/19/large/20241019181826872623_21.png" group-title="Malaysia",[HD]Astro Sports Plus *tv
 https://stream1.freetv.fun/a9a3a2ce9d274736c4e6f5bcf7c85622208f39cc7b8e2f762dd3660bd527e943.ctv
-#EXTINF:-1 tvg-name="Bernama TV" tvg-id="1835" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg" group-title="Malaysia",[VGA]bergamo tv
+#EXTINF:-1 tvg-name="Bernama TV" tvg-id="1835" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg" group-title="Malaysia",[BD]bergamo tv
 https://stream1.freetv.fun/3c9ed2cfd07b47b504e4c4e2083c7c0f01bb9bd8a645bb2c15f49fee84c1729c.m3u8
 #EXTINF:-1 tvg-name="DAQU TV" tvg-id="" tvg-country="Malaysia" tvg-language="Arabic" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fd81320acb46e7a7051b1cdf2ee2c5ad.png" group-title="Malaysia",[HD]maqui tv
 https://stream1.freetv.fun/a743111493c088c7104f54ef11bb8d97340207d872ced2909327e554707172ef.m3u8
@@ -499,8 +499,6 @@ https://cdn16.163189.xyz/163189/cwjd
 https://cdn16.163189.xyz/163189/gzzh
 #EXTINF:-1 tvg-name="广州新闻" group-title="backup",广州新闻
 https://cdn16.163189.xyz/163189/gzxw
-#EXTINF:-1 tvg-name="南国都市4K" group-title="backup",广州南国都市
-https://cdn15.163189.xyz/163189/ngds
 #EXTINF:-1 tvg-name="五星体育" group-title="backup",五星体育
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="民視影劇台" group-title="backup",民视影剧台
