@@ -195,8 +195,6 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 #EXTINF:-1 tvg-name="8TV" tvg-id="1122" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="Malaysia",[BD]8TV *tv
 https://stream1.freetv.fun/a8689b73ff805df64e23f886f310bb655802abe03d5a4c78e3cf8bd638a7b4dc.ctv
-#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Malaysia",[BD]aod
-https://stream1.freetv.fun/019f231fecff97bf346c785d480afee2c5abbeb4c4905ffb7c68a2cffb6088c5.ctv
 #EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Malaysia",[BD]Astro AOD 311 *tv
 https://stream1.freetv.fun/79697f2fb076ee976747482277f9a45e9563d9ae6bf6696ba83790ce81798a98.ctv
 #EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="Malaysia",[HD]Astro Awani *tv
@@ -221,10 +219,6 @@ https://stream1.freetv.fun/eac0820147afa03a46536e779bd0ba33510963c4ad6e253317c1f
 https://stream1.freetv.fun/0a4395bd794441d01e049b08063df62ed03dc2ef74533bd00d5ac0643a7e4096.ctv
 #EXTINF:-1 tvg-name="Astro AEC" tvg-id="2226" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Malaysia",[BD]Astro AEC *tv
 https://stream1.freetv.fun/d3d9cf31ed24b0f0f798dd1ea51203555ca492dee3c6219f37f088264a5699b9.ctv
-#EXTINF:-1 tvg-name="Astro AEC" tvg-id="2226" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Malaysia",[BD]aec
-https://stream1.freetv.fun/4423bc66ac255e5033d2ca767ed61bbf6d613af13ba164ef030711d899e72e4f.ctv
-#EXTINF:-1 tvg-name="Astro AEC" tvg-id="2226" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Malaysia",[BD]astro aec
-https://stream1.freetv.fun/3f7ae1e13fad12ee9f5db75195817c7a80843b8b937f2e63429d24029e96abfb.ctv
 #EXTINF:-1 tvg-name="Astro Arena Bola" tvg-id="4209" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/02/23/large/20240223231822775517_57.png" group-title="Malaysia",[HD]Astro Arena Bola *tv
 https://stream1.freetv.fun/d7982f7948fc0b07f42d4c763aa759ad513faf7b7a18f842d76a19382ee6c5ea.ctv
 #EXTINF:-1 tvg-name="Astro Arena Bola 2" tvg-id="4215" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611100515323794_32.png" group-title="Malaysia",[HD]Astro Arena Bola 2 *tv
@@ -251,8 +245,6 @@ https://stream1.freetv.fun/6fd9ebf3c519ad0ee9acc59537f7e794aeb3a8d64aab2f1b12618
 https://stream1.freetv.fun/a9a3a2ce9d274736c4e6f5bcf7c85622208f39cc7b8e2f762dd3660bd527e943.ctv
 #EXTINF:-1 tvg-name="Astro TVS" tvg-id="3942" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222138178348_52.png" group-title="Malaysia",[HD]tvs
 https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa493c12593ce1.m3u8
-#EXTINF:-1 tvg-name="Bernama TV" tvg-id="1835" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg" group-title="Malaysia",[BD]bergamo tv
-https://stream1.freetv.fun/3c9ed2cfd07b47b504e4c4e2083c7c0f01bb9bd8a645bb2c15f49fee84c1729c.m3u8
 #EXTINF:-1 tvg-name="Disney XD(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118220221148799_40.png" group-title="Malaysia",[HD]disney xd
 https://stream1.freetv.fun/3c801c0dd4a036bf221597518645cf18ac400fbb51dea7fb2a0ad46299dfbb8f.m3u8
 #EXTINF:-1 tvg-name="Mara TV" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222252166727_36.png" group-title="Malaysia",[BD]ahora tv
@@ -273,10 +265,6 @@ https://stream1.freetv.fun/3a88f55139022e90fe1d9729ad32a8579543da9dcd490926ab9f6
 https://stream1.freetv.fun/0acb37e76729f66c824480aea51b416bc5cca1e77f175120adf425150097110b.m3u8
 #EXTINF:-1 tvg-name="TV2" tvg-id="3711" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2016/10/04/large/20161004184933823290_88.png" group-title="Malaysia",[BD]tv2
 https://stream1.freetv.fun/3d34a41d483d768df850c1819df529f27a2003a76c52124e592c05a4d4793e60.m3u8
-#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Malaysia",[BD]天映經典
-https://stream1.freetv.fun/d48ca296f2ab4a1bda414746aef4f16dd8a43cc609326824cb85aba877e6c90b.ctv
-#EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Malaysia",[BD]天映经典
-https://stream1.freetv.fun/a60cddb8980015dc10d6665c2951a7e4e5df527d01f5c2a975989f5432bb5a86.ctv
 #EXTINF:-1 tvg-name="天映經典(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Malaysia",[SD]天映经典[geo-blocked]
 https://stream1.freetv.fun/c99a8ab51c0538a983e055b929d5be8baaac4f3d178349a81299fbd742584914.ctv
 #EXTINF:-1 tvg-name="AXN HD" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/AXN_HD.jpg" group-title="Singapore",[BD]AXN HD *tv
@@ -305,16 +293,12 @@ https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
 #EXTINF:-1 tvg-name="THRILL" tvg-id="368339" tvg-country="Singapore" tvg-language="Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135831171520_57.jpg" group-title="Singapore",[VGA]THrill *tv[geo-blocked]
 https://stream1.freetv.fun/543867cb2aa562fcdd55141d32fd4d1f3c957ac85a0304717eb1ea1fa50a35d1.ctv
-#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台4K(字幕)
-https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="凤凰中文" group-title="backup",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="RTHK33" group-title="backup",CCTV1港澳版
 https://cdn6.163189.xyz/163189/cctv1
 #EXTINF:-1 tvg-name="CCTV13" group-title="backup",CCTV13
 https://cdn10.163189.xyz/163189/cctv13/
-#EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus(字幕)
-https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="HOY77" group-title="backup",HOY TV
 https://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-name="HOY77" group-title="backup",HOY TV
@@ -357,10 +341,6 @@ https://cdn6.163189.xyz/163189/j1
 https://cdn6.163189.xyz/163189/tvbd
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台
 https://cdn6.163189.xyz/163189/fct
-#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(字幕)
-https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台(字幕)
-https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-name="无线新闻" group-title="backup",无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="广东珠江" group-title="backup",广东珠江
@@ -389,8 +369,6 @@ https://cdn8.163189.xyz/163189/lhxj
 https://cdn8.163189.xyz/163189/lhyp
 #EXTINF:-1 tvg-name="龍華卡通" group-title="backup",龙华卡通
 https://cdn8.163189.xyz/163189/lhkt
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="backup",金光布袋戏
-https://o11.163189.xyz/stream/live/jgbdx/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台
 https://cdn6.163189.xyz/163189/hlfct
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="backup",TVB亚洲武侠
@@ -403,36 +381,14 @@ https://cdn6.163189.xyz/163189/wxxwt
 https://cdn6.163189.xyz/163189/tvbxh
 #EXTINF:-1 tvg-name="海峡卫视" group-title="backup",海峡卫视
 https://cdn10.163189.xyz/163189/hxws/
-#EXTINF:-1 tvg-name="海峡卫视" group-title="backup",海峡卫视
-https://cdn16.163189.xyz/163189/hxws
 #EXTINF:-1 tvg-name="TVB星河" group-title="backup",TVB星河
 https://cdn10.163189.xyz/163189/xinghe/
 #EXTINF:-1 tvg-name="天映新加坡" group-title="backup",天映新加坡
 https://cdn10.163189.xyz/163189/typd/
 #EXTINF:-1 tvg-name="天映经典" group-title="backup",天映经典
 https://cdn10.163189.xyz/163189/ccm/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台
-https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台(硬字幕)
 https://cdn6.163189.xyz/163189/jade
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台(新加坡)
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="AOD" group-title="backup",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="AEC" group-title="backup",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="backup",Astro欢喜台
-https://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="iQIYI" group-title="backup",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="天映马来西亚" group-title="backup",天映频道
-https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 tvg-name="天映经典" group-title="backup",天映经典
-https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 tvg-name="TVB星河" group-title="backup",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="千禧經典台" group-title="backup",千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(WebVTT字幕)
 https://cdn10.163189.xyz/163189/fct/
 #EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台(WebVTT字幕)
@@ -455,8 +411,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 https://cdn16.163189.xyz/163189/cctv5-2
 #EXTINF:-1 tvg-name="CCTV5+" group-title="backup",CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV5+" group-title="backup",CCTV5+
-https://cdn16.163189.xyz/163189/cctv5p-2
 #EXTINF:-1 tvg-name="CCTV6" group-title="backup",CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" group-title="backup",CCTV7
@@ -489,6 +443,8 @@ https://cdn16.163189.xyz/163189/cwjd
 https://cdn16.163189.xyz/163189/gzzh
 #EXTINF:-1 tvg-name="广州新闻" group-title="backup",广州新闻
 https://cdn16.163189.xyz/163189/gzxw
+#EXTINF:-1 tvg-name="南国都市4K" group-title="backup",广州南国都市
+https://cdn15.163189.xyz/163189/ngds
 #EXTINF:-1 tvg-name="五星体育" group-title="backup",五星体育
 https://cdn15.163189.xyz/163189/wxty
 #EXTINF:-1 tvg-name="民視影劇台" group-title="backup",民视影剧台
@@ -523,19 +479,3 @@ https://cdn12.178.indevs.in/163189/dreamworks
 https://cdn12.178.indevs.in/163189/jxdmt
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="backup",金光布袋戏
 https://cdn12.178.indevs.in/163189/jgbdx
-#EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus
-https://smt.1678520.xyz/163189/tvbp
-#EXTINF:-1 tvg-name="纬来电影台" group-title="backup",纬来电影台
-https://smt.1678520.xyz/163189/wldy
-#EXTINF:-1 tvg-name="纬来戏剧台" group-title="backup",纬来戏剧台
-https://smt.1678520.xyz/163189/wlxj
-#EXTINF:-1 tvg-name="纬来体育台" group-title="backup",纬来体育台
-https://smt.1678520.xyz/163189/wlty
-#EXTINF:-1 tvg-name="龙祥时代" group-title="backup",龙祥时代
-https://smt.1678520.xyz/163189/lxsd
-#EXTINF:-1 tvg-name="东森电影" group-title="backup",东森电影
-https://smt.1678520.xyz/163189/dsdy
-#EXTINF:-1 tvg-name="东森戏剧" group-title="backup",东森戏剧
-https://smt.1678520.xyz/163189/dsxj
-#EXTINF:-1 tvg-name="东森洋片" group-title="backup",东森洋片
-https://smt.1678520.xyz/163189/dsyp
