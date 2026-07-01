@@ -17,6 +17,8 @@ https://iptv.catvod.com/live.php?id=CCTV2&line=8
 https://iptv.catvod.com/live.php?id=CCTV2&line=4
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 https://iptv.catvod.com/live.php?id=CCTV2&line=3
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
+http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=3
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
@@ -291,12 +293,12 @@ https://stream1.freetv.fun/1f3422e06db0838e9f3dc8d8758a6e25478c8c649baa4bcb6f3d8
 https://stream1.freetv.fun/25ecbd57a772e3bc59312e08c87f88f033c9130a81c0d6227031ac7ddbf370a4.ctv
 #EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="Singapore",[BD]cna
 https://stream1.freetv.fun/8c4bb87cc37689686affb4b5ab092669890855ac145d7df95f8aae9e5862d61d.m3u8
-#EXTINF:-1 tvg-name="Channel 5" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062707459786_86.png" group-title="Singapore",[BD]channel 5
-https://stream1.freetv.fun/85e5d7b3a1e38b6a14a1c2764f1535c19d1a77c7baaef544f458451b13935b01.ctv
 #EXTINF:-1 tvg-name="Channel 5" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062707459786_86.png" group-title="Singapore",[SD]channel 5
 https://stream1.freetv.fun/cddfab837d226df50f5fcde41535cbf17a2baa0bfde614113795f085c40b0282.m3u8
 #EXTINF:-1 tvg-name="Channel 5" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062707459786_86.png" group-title="Singapore",[BD]channel 5
 https://stream1.freetv.fun/de561477a428dd9adfe2ab1536f46121f21b80af7ec7efa22f794abf40b541a9.m3u8
+#EXTINF:-1 tvg-name="Channel 5" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620062707459786_86.png" group-title="Singapore",[BD]channel 5
+https://stream1.freetv.fun/85e5d7b3a1e38b6a14a1c2764f1535c19d1a77c7baaef544f458451b13935b01.ctv
 #EXTINF:-1 tvg-name="Channel 8" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Singapore",[SD]channel 8
 https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
 #EXTINF:-1 tvg-name="Channel 8" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="Singapore",[BD]channel 8
@@ -313,22 +315,24 @@ https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="CCTV13" group-title="backup",CCTV13
+https://cdn10.163189.xyz/163189/cctv13/
 #EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus(字幕)
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="HOY 國際財經台" group-title="backup",HOY国际财经台
 https://cdn11.163189.xyz/163189/hoy76
-#EXTINF:-1 tvg-name="ViuTVsix" group-title="backup",ViuTVsix
-https://cdn10.163189.xyz/163189/viu6/
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(字幕)
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台(字幕)
 https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="龍華經典" group-title="backup",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-name="龍華偶像" group-title="backup",龙华偶像
+https://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="backup",金光布袋戏
 https://o11.163189.xyz/stream/live/jgbdx/
 #EXTINF:-1 tvg-name="海峡卫视" group-title="backup",海峡卫视
-https://cdn16.163189.xyz/163189/hxws
-#EXTINF:-1 tvg-name="TVB星河" group-title="backup",TVB星河
-https://cdn10.163189.xyz/163189/xinghe/
+https://cdn10.163189.xyz/163189/hxws/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台(新加坡)
@@ -347,10 +351,6 @@ https://o11.163189.xyz/stream/live/ccm/
 https://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="千禧經典台" group-title="backup",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(WebVTT字幕)
-https://cdn10.163189.xyz/163189/fct/
-#EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus(WebVTT字幕)
-https://cdn10.163189.xyz/163189/tvbp/
 #EXTINF:-1 tvg-name="CCTV1" group-title="backup",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" group-title="backup",CCTV2
@@ -363,8 +363,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5+" group-title="backup",CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV5+" group-title="backup",CCTV5+
-https://cdn16.163189.xyz/163189/cctv5p-2
 #EXTINF:-1 tvg-name="CCTV6" group-title="backup",CCTV6
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV7" group-title="backup",CCTV7
@@ -373,8 +371,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV9" group-title="backup",CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" group-title="backup",CCTV10
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV11" group-title="backup",CCTV11
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV12" group-title="backup",CCTV12
