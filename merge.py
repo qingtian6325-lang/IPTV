@@ -13,7 +13,7 @@ sources = {
     "sg1": "https://iptv-org.github.io/iptv/countries/sg.m3u",
     "my2": "https://epg.pw/test_channels_malaysia.m3u",
     "sg2": "https://epg.pw/test_channels_singapore.m3u",
-    "backup1": "https://cdn.qd.je/live.m3u",
+    "backup1": "https://iptv.aibo.lol/list.m3u",
     "backup2": "https://php.946985.filegear-sg.me/jackTV.m3u"
 }
 # ==========================================
