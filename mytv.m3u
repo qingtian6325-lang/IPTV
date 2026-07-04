@@ -36,8 +36,6 @@ https://iptv.catvod.com/live.php?id=CCTV4&line=3
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=6
@@ -267,6 +265,10 @@ https://stream1.freetv.fun/a7dd361554edf6de9be0634ad9431203f6adbab5495fe000b7979
 https://stream1.freetv.fun/42824220040c1941187738cfab5e5c90f5cb90c703d7fb534675288e272b44ce.m3u8
 #EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Malaysia",[BD]premier sports 1 uk
 https://stream1.freetv.fun/4903ce61fda3e80a363565875745a191407478a208354a82dbd8594c2cfd6e65.ctv
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Malaysia",[BD]premier sports 2
+https://stream1.freetv.fun/ee1288e4fe32f925d263ab5d0b7af7e9f670914f1bd7497642199f78b1e8c9fd.ctv
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="3625" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png" group-title="Malaysia",[BD]premier sports 1
+https://stream1.freetv.fun/0df3df507b3faf8879b135a423204d4c9fc379bbb6a060e1afd23505b407c961.ctv
 #EXTINF:-1 tvg-name="RTM FIFA 1" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2026/06/20/large/20260620032807366818_78.png" group-title="Malaysia",[SD]kbs world
 https://stream1.freetv.fun/3a88f55139022e90fe1d9729ad32a8579543da9dcd490926ab9f6e2b40049a0a.m3u8
 #EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2016/10/04/large/20161004184847688856_98.jpg" group-title="Malaysia",[BD]ltv1
@@ -315,34 +317,8 @@ https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus(字幕)
-https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="HOY 國際財經台" group-title="backup",HOY国际财经台
 https://cdn11.163189.xyz/163189/hoy76
-#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(字幕)
-https://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台(字幕)
-https://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="backup",金光布袋戏
-https://o11.163189.xyz/stream/live/jgbdx/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台
-https://o11.163189.xyz/stream/live/hlt/
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台(新加坡)
-https://o11.163189.xyz/stream/live/jade/
-#EXTINF:-1 tvg-name="AOD" group-title="backup",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="backup",Astro欢喜台
-https://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="iQIYI" group-title="backup",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-name="天映马来西亚" group-title="backup",天映频道
-https://o11.163189.xyz/stream/live/typd/
-#EXTINF:-1 tvg-name="天映经典" group-title="backup",天映经典
-https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 tvg-name="TVB星河" group-title="backup",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
-#EXTINF:-1 tvg-name="千禧經典台" group-title="backup",千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="CCTV1" group-title="backup",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" group-title="backup",CCTV2
