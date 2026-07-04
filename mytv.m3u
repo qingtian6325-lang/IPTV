@@ -287,8 +287,6 @@ https://stream1.freetv.fun/477d37701965d06085ab17606c713fa90773a80515619dc2bbef9
 https://stream1.freetv.fun/0aa055c0a89c3e655eaabd12623561fbb5199e43399251e945bbdef32b406efa.ctv
 #EXTINF:-1 tvg-name="Afn" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png" group-title="Singapore",[BD]AFN *tv
 https://stream1.freetv.fun/86cd6b90616fa32bb7c47cf99e9565459f49333c2a27c52b6673558ccf8c8baf.ctv
-#EXTINF:-1 tvg-name="CM Plus" tvg-id="369748" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/17/large/20240617162058102105_17.jpeg" group-title="Singapore",[HD]mgm plus
-https://stream1.freetv.fun/1f3422e06db0838e9f3dc8d8758a6e25478c8c649baa4bcb6f3d82ae2088e852.ctv
 #EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="Singapore",[BD]cna sg
 https://stream1.freetv.fun/25ecbd57a772e3bc59312e08c87f88f033c9130a81c0d6227031ac7ddbf370a4.ctv
 #EXTINF:-1 tvg-name="CNA" tvg-id="2852" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/01/14/large/20230114191550513154_10.png" group-title="Singapore",[BD]cna
@@ -315,8 +313,34 @@ https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台4K(字幕)
 https://o11.163189.xyz/stream/tvb/fct4k/
+#EXTINF:-1 tvg-name="TVB Plus" group-title="backup",TVB Plus(字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="HOY 國際財經台" group-title="backup",HOY国际财经台
 https://cdn11.163189.xyz/163189/hoy76
+#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台(字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台(字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="backup",金光布袋戏
+https://o11.163189.xyz/stream/live/jgbdx/
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台
+https://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="backup",华丽翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+#EXTINF:-1 tvg-name="AOD" group-title="backup",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="backup",Astro欢喜台
+https://o11.163189.xyz/stream/live/hxt/
+#EXTINF:-1 tvg-name="iQIYI" group-title="backup",爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="backup",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="天映经典" group-title="backup",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="TVB星河" group-title="backup",TVB星河
+https://o11.163189.xyz/stream/live/tvbxh/
+#EXTINF:-1 tvg-name="千禧經典台" group-title="backup",千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="CCTV1" group-title="backup",CCTV1
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV2" group-title="backup",CCTV2
@@ -403,5 +427,3 @@ https://smt.1678520.xyz/163189/lxsd
 https://smt.1678520.xyz/163189/dsdy
 #EXTINF:-1 tvg-name="东森戏剧" group-title="backup",东森戏剧
 https://smt.1678520.xyz/163189/dsxj
-#EXTINF:-1 tvg-name="东森洋片" group-title="backup",东森洋片
-https://smt.1678520.xyz/163189/dsyp
