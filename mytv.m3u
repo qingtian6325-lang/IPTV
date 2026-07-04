@@ -36,6 +36,8 @@ https://iptv.catvod.com/live.php?id=CCTV4&line=3
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=6
@@ -315,34 +317,8 @@ https://stream1.freetv.fun/cc4ff19107f6ab0828eec10d55d32411a1f8a84a3b4d400374dcb
 https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f0bfad532310.ctv
 #EXTINF:-1 tvg-name="Sony One HD" tvg-id="369728" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Singapore",[BD]sony one favoris[geo-blocked]
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="backup",CCTV-6 电影
-https://iptv.aibo.lol/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="直播占位09" tvg-name="占位09" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位09
-https://iptv.aibo.lol/live/9.flv
-#EXTINF:-1 tvg-id="直播占位10" tvg-name="占位10" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位10
-https://iptv.aibo.lol/live/10.flv
-#EXTINF:-1 tvg-id="直播占位11" tvg-name="占位11" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位11
-https://iptv.aibo.lol/live/11.flv
-#EXTINF:-1 tvg-id="直播占位12" tvg-name="占位12" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位12
-https://iptv.aibo.lol/live/12.flv
-#EXTINF:-1 tvg-id="直播占位13" tvg-name="占位13" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位13
-https://iptv.aibo.lol/live/13.flv
-#EXTINF:-1 tvg-id="直播占位14" tvg-name="占位14" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位14
-https://iptv.aibo.lol/live/14.flv
-#EXTINF:-1 tvg-id="直播占位15" tvg-name="占位15" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位15
-https://iptv.aibo.lol/live/15.flv
-#EXTINF:-1 tvg-id="直播占位16" tvg-name="占位16" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位16
-https://iptv.aibo.lol/live/16.flv
-#EXTINF:-1 tvg-id="直播占位17" tvg-name="占位17" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位17
-https://iptv.aibo.lol/live/17.flv
-#EXTINF:-1 tvg-id="直播占位18" tvg-name="占位18" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位18
-https://iptv.aibo.lol/live/18.flv
 #EXTINF:-1 tvg-id="直播占位19" tvg-name="占位19" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位19
 https://iptv.aibo.lol/live/19.flv
-#EXTINF:-1 tvg-id="直播占位20" tvg-name="占位20" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位20
-https://iptv.aibo.lol/live/20.flv
-#EXTINF:-1 tvg-id="直播占位21" tvg-name="占位21" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位21
-https://iptv.aibo.lol/live/21.flv
 #EXTINF:-1 tvg-id="直播占位22" tvg-name="占位22" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位22
 https://iptv.aibo.lol/live/22.flv
 #EXTINF:-1 tvg-id="直播占位23" tvg-name="占位23" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位23
@@ -355,8 +331,14 @@ http://82.156.243.185:36888/av3a/cctv5n.m3u8
 http://82.156.243.185:36888/av3a/cctv5pn.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="backup",CCTV-16 奥林匹克
 http://82.156.243.185:36888/av3a/cctv16n.m3u8
-#EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="backup",FussBall TV
-https://de.zongbu666.top/live/stream-4cb98b7a-6afa-429a-b6c1-c585bafed5a7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-4K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="backup",CCTV-4K 超高清
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="8vos de Final: Canadá v. Marruecos" group-title="backup",8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000
+https://picture.shenniaokongque.top/event/2c495a06-411d-37b7-b40c-8a967674d667
+#EXTINF:-1 tvg-name="8vos de Final: Brasil v. Noruega" group-title="backup",8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000
+https://picture.shenniaokongque.top/event/407b94f1-ad3f-3731-9427-23e5eb10baaf
+#EXTINF:-1 tvg-name="8vos de Final: México v. Inglaterra" group-title="backup",8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000
+https://picture.shenniaokongque.top/event/9bda0e99-0720-3dce-ac25-53802f3bb618
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="backup",五星体育
 http://82.156.243.185:54321/kk.php?id=10&smg=1
 #EXTINF:-1 tvg-name="翡翠台4K(多音轨字幕)" group-title="backup",翡翠台4K(多音轨字幕)
