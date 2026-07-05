@@ -36,8 +36,6 @@ https://iptv.catvod.com/live.php?id=CCTV4&line=3
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=6
@@ -317,18 +315,46 @@ https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="backup",CCTV-1 综合
 https://iptv.aibo.lol/live/cctv1.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-2.png" group-title="backup",CCTV-2 财经
-https://iptv.aibo.lol/live/cctv2.m3u8
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-3.png" group-title="backup",CCTV-3 综艺
 https://iptv.aibo.lol/live/cctv3.m3u8
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
 https://iptv.aibo.lol/live/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
 https://iptv.aibo.lol/live/cctv5plus.m3u8
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="backup",CCTV-6 电影
+https://iptv.aibo.lol/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-7.png" group-title="backup",CCTV-7 国防军事
 https://iptv.aibo.lol/live/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-9.png" group-title="backup",CCTV-9 纪录
-https://iptv.aibo.lol/live/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8.png" group-title="backup",CCTV-8 电视剧
+https://iptv.aibo.lol/live/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-11.png" group-title="backup",CCTV-11 戏曲
+https://iptv.aibo.lol/live/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-14.png" group-title="backup",CCTV-14 少儿
+https://iptv.aibo.lol/live/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克4K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV164K.png" group-title="backup",CCTV-16 奥林匹克4K
+https://iptv.aibo.lol/live/cctv164k.m3u8
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-17.png" group-title="backup",CCTV-17 农业农村
+https://iptv.aibo.lol/live/cctv17.m3u8
+#EXTINF:-1 tvg-name="CGTN 俄语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNru.png" group-title="backup",CGTN 俄语
+https://iptv.aibo.lol/live/cgtneyu.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东方卫视.png" group-title="backup",东方卫视
+https://iptv.aibo.lol/live/dongfangws.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="backup",湖北卫视
+https://iptv.aibo.lol/live/hubeiws.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/辽宁卫视.png" group-title="backup",辽宁卫视
+https://iptv.aibo.lol/live/liaoningws.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山东卫视.png" group-title="backup",山东卫视
+https://iptv.aibo.lol/live/shandongws.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/陕西卫视.png" group-title="backup",陕西卫视
+https://iptv.aibo.lol/live/shannxiws.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/宁夏卫视.png" group-title="backup",宁夏卫视
+https://iptv.aibo.lol/live/ningxiaws.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/内蒙古卫视.png" group-title="backup",内蒙古卫视
+https://iptv.aibo.lol/live/neimengguws.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山西卫视.png" group-title="backup",山西卫视
+https://iptv.aibo.lol/live/shanxiws.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/新疆卫视.png" group-title="backup",新疆卫视
+https://iptv.aibo.lol/live/xinjiangws.m3u8
 #EXTINF:-1 tvg-id="直播占位01" tvg-name="占位01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位01
 https://iptv.aibo.lol/live/1.flv
 #EXTINF:-1 tvg-id="直播占位02" tvg-name="占位02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位02
@@ -386,13 +412,19 @@ http://82.156.243.185:36888/av3a/cctv16n.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="backup",CCTV-4K 超高清
 http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="backup",FussBall TV
-https://cdn.staticres.top/p/696bcded-8eaf-4613-8a29-e6a7875b4bcb
+https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
 #EXTINF:-1 tvg-name="8vos de Final: Brasil v. Noruega" group-title="backup",8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000
 https://picture.shenniaokongque.top/event/407b94f1-ad3f-3731-9427-23e5eb10baaf
 #EXTINF:-1 tvg-name="8vos de Final: México v. Inglaterra" group-title="backup",8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000
 https://picture.shenniaokongque.top/event/9bda0e99-0720-3dce-ac25-53802f3bb618
+#EXTINF:-1 tvg-name="8vos de Final: Portugal v. España" group-title="backup",8vos de Final: Portugal v. España_2026-07-07 02:40:00_1783363200000
+https://picture.shenniaokongque.top/event/61feccd6-1c94-3146-b8f0-bcb61e56da7c
+#EXTINF:-1 tvg-name="8vos de Final: Estados Unidos v. Bélgica" group-title="backup",8vos de Final: Estados Unidos v. Bélgica_2026-07-07 05:10:00_1783372200000
+https://picture.shenniaokongque.top/event/5737c356-1c09-3faa-87e2-61f76790bb99
+#EXTINF:-1 tvg-name="8vos de Final: Argentina v. Egipto" group-title="backup",8vos de Final: Argentina v. Egipto_2026-07-07 23:40:00_1783438800000
+https://picture.shenniaokongque.top/event/a8cd4a1f-4ffa-3f86-bfc4-e0d42e2f7850
 #EXTINF:-1 tvg-name="Apple TV 4K Dolby Vision F1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/f1.png" group-title="backup",Apple TV 4K Dolby Vision F1
-https://other.shenniaokongque.top/p/87845d77-504c-4fa5-a919-13641a0fdb48
+https://other.shenniaokongque.top/p/9c0ee747-c6f6-4e07-9b90-23712c1d7b8e
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2.png" group-title="backup",五星体育
 http://82.156.243.185:54321/kk.php?id=10&smg=1
 #EXTINF:-1 tvg-name="HOY TV" group-title="backup",HOY TV
@@ -495,6 +527,8 @@ https://iptv.aibo.lol/qd/cctv16.m3u8
 https://iptv.aibo.lol/qd/cctv16-2.m3u8
 #EXTINF:-1 tvg-name="五星体育" group-title="backup",五星体育
 https://iptv.aibo.lol/qd/wxty.m3u8
+#EXTINF:-1 tvg-name="千禧经典" group-title="backup",千禧经典
+https://iptv.aibo.lol/ext/tvbclassic.m3u8
 #EXTINF:-1 tvg-name="外部聚合源" group-title="backup",外部聚合源
 https://iptv.aibo.lol/ext/198-m3u.m3u
 #EXTINF:-1 tvg-name="Yang聚合源" group-title="backup",Yang聚合源
@@ -503,8 +537,6 @@ https://iptv.aibo.lol/ext/yang-playlist.m3u
 https://iptv.aibo.lol/hk/jade-4k.m3u8
 #EXTINF:-1 tvg-name="翡翠台(多音轨字幕)" group-title="backup",翡翠台(多音轨字幕)
 https://iptv.aibo.lol/hk/jade.m3u8
-#EXTINF:-1 tvg-name="TVB PLUS(多音轨字幕)" group-title="backup",TVB PLUS(多音轨字幕)
-https://iptv.aibo.lol/hk/tvb-plus.m3u8
 #EXTINF:-1 tvg-name="明珠台(多音轨字幕)" group-title="backup",明珠台(多音轨字幕)
 https://iptv.aibo.lol/hk/pearl.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台(多音轨字幕)" group-title="backup",华丽翡翠台(多音轨字幕)
