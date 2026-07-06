@@ -1,192 +1,194 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
-https://iptv.catvod.com/live.php?id=CCTV1&line=4
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV1&line=6
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
+https://iptv.catvod.com/live.php?id=CCTV1&line=4
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV1&line=14
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV1&line=16
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
-https://iptv.catvod.com/live.php?id=CCTV2&line=5
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
-https://iptv.catvod.com/live.php?id=CCTV2&line=8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 https://iptv.catvod.com/live.php?id=CCTV2&line=4
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 https://iptv.catvod.com/live.php?id=CCTV2&line=3
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
+https://iptv.catvod.com/live.php?id=CCTV2&line=5
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
+https://iptv.catvod.com/live.php?id=CCTV2&line=8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=3
+#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
+https://iptv.catvod.com/live.php?id=CCTV3&line=4
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=6
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=7
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
-https://iptv.catvod.com/live.php?id=CCTV3&line=4
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=5
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
+http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 https://iptv.catvod.com/live.php?id=CCTV4&line=6
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 https://iptv.catvod.com/live.php?id=CCTV4&line=3
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5&line=6
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5&line=1
-#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5&line=8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV5&line=10
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
+https://iptv.catvod.com/live.php?id=CCTV5&line=8
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
+https://iptv.catvod.com/live.php?id=CCTV5&line=1
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
+https://iptv.catvod.com/live.php?id=CCTV5&line=6
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="📺央视",CCTV-5
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视",CCTV-5+
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视",CCTV-5+
-http://74.91.26.218:82/live/cctv5p.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视",CCTV-5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="📺央视",CCTV-5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
-https://iptv.catvod.com/live.php?id=CCTV6&line=7
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
 https://iptv.catvod.com/live.php?id=CCTV6&line=11
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
-https://iptv.catvod.com/live.php?id=CCTV6&line=5
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
 https://iptv.catvod.com/live.php?id=CCTV6&line=13
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
+https://iptv.catvod.com/live.php?id=CCTV6&line=5
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
+https://iptv.catvod.com/live.php?id=CCTV6&line=7
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
 https://iptv.catvod.com/live.php?id=CCTV6&line=9
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
+https://iptv.catvod.com/live.php?id=CCTV7&line=9
+#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
+https://iptv.catvod.com/live.php?id=CCTV7&line=7
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
 https://iptv.catvod.com/live.php?id=CCTV7&line=2
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
 https://iptv.catvod.com/live.php?id=CCTV7&line=3
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
-https://iptv.catvod.com/live.php?id=CCTV7&line=7
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
-https://iptv.catvod.com/live.php?id=CCTV7&line=9
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
-http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV8&line=10
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
-https://iptv.catvod.com/live.php?id=CCTV8&line=15
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV8&line=11
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
-https://iptv.catvod.com/live.php?id=CCTV8&line=14
-#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV8&line=4
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
-https://iptv.catvod.com/live.php?id=CCTV9&line=3
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
-https://iptv.catvod.com/live.php?id=CCTV9&line=5
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
-https://iptv.catvod.com/live.php?id=CCTV9&line=4
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
+https://iptv.catvod.com/live.php?id=CCTV8&line=15
+#EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
+https://iptv.catvod.com/live.php?id=CCTV8&line=14
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
+https://iptv.catvod.com/live.php?id=CCTV9&line=3
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
+https://iptv.catvod.com/live.php?id=CCTV9&line=4
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
+https://iptv.catvod.com/live.php?id=CCTV9&line=5
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
 http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
-https://iptv.catvod.com/live.php?id=CCTV10&line=3
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
-https://iptv.catvod.com/live.php?id=CCTV10&line=2
+https://iptv.catvod.com/live.php?id=CCTV10&line=6
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 https://iptv.catvod.com/live.php?id=CCTV10&line=10
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
+https://iptv.catvod.com/live.php?id=CCTV10&line=3
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 https://iptv.catvod.com/live.php?id=CCTV10&line=8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
-https://iptv.catvod.com/live.php?id=CCTV10&line=6
+https://iptv.catvod.com/live.php?id=CCTV10&line=2
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV11&line=2
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
-https://iptv.catvod.com/live.php?id=CCTV11&line=5
+https://iptv.catvod.com/live.php?id=CCTV11&line=4
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
-https://iptv.catvod.com/live.php?id=CCTV11&line=3
+https://iptv.catvod.com/live.php?id=CCTV11&line=5
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV11&line=7
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
-https://iptv.catvod.com/live.php?id=CCTV11&line=4
+https://iptv.catvod.com/live.php?id=CCTV11&line=3
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
 https://iptv.catvod.com/live.php?id=CCTV12&line=6
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
 https://iptv.catvod.com/live.php?id=CCTV12&line=5
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
-http://74.91.26.218:82/live/cctv12hd.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="📺央视",CCTV-12
 http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
 https://iptv.catvod.com/live.php?id=CCTV13&line=7
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
+https://iptv.catvod.com/live.php?id=CCTV13&line=2
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
 https://iptv.catvod.com/live.php?id=CCTV13&line=13
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
 https://iptv.catvod.com/live.php?id=CCTV13&line=12
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
 https://iptv.catvod.com/live.php?id=CCTV13&line=4
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
-https://iptv.catvod.com/live.php?id=CCTV13&line=2
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
-https://iptv.catvod.com/live.php?id=CCTV14&line=3
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
-https://iptv.catvod.com/live.php?id=CCTV14&line=4
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
-https://iptv.catvod.com/live.php?id=CCTV14&line=6
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV14&line=3
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV14&line=6
+#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV14&line=4
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视",CCTV-15
-https://iptv.catvod.com/live.php?id=CCTV15&line=4
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视",CCTV-15
 https://iptv.catvod.com/live.php?id=CCTV15&line=3
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视",CCTV-15
 https://iptv.catvod.com/live.php?id=CCTV15&line=5
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视",CCTV-15
-https://iptv.catvod.com/live.php?id=CCTV15
+https://iptv.catvod.com/live.php?id=CCTV15&line=4
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="📺央视",CCTV-15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+https://iptv.catvod.com/live.php?id=CCTV15
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
 https://iptv.catvod.com/live.php?id=CCTV16&line=1
+#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
+https://iptv.catvod.com/live.php?id=CCTV16&line=2
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
 https://iptv.catvod.com/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
-https://iptv.catvod.com/live.php?id=CCTV16&line=2
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视",CCTV-16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
-https://iptv.catvod.com/live.php?id=CCTV17&line=6
-#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
-https://iptv.catvod.com/live.php?id=CCTV17&line=5
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV17&line=1
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV17&line=3
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV17&line=2
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
+https://iptv.catvod.com/live.php?id=CCTV17&line=5
+#EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="📺央视",CCTV-17
+https://iptv.catvod.com/live.php?id=CCTV17&line=6
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视",CETV-1
-https://iptv.catvod.com/live.php?id=CETV1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视",CETV-1
+http://198.204.228.26/live/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视",CETV-1
 https://iptv.catvod.com/live.php?id=CETV1&line=1
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视",CETV-1
+https://iptv.catvod.com/live.php?id=CETV1
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-1.png" group-title="📺央视",CETV-1
 http://120.76.248.139/live/bfgd/4200000135.m3u8
 #EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="📺央视",CETV-2
-https://iptv.catvod.com/live.php?id=CETV2&line=1
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="📺央视",CETV-2
 https://iptv.catvod.com/live.php?id=CETV2
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2.png" group-title="📺央视",CETV-2
+https://iptv.catvod.com/live.php?id=CETV2&line=1
+#EXTINF:-1 tvg-id="8TV.my@SD" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Malaysia",8TV
+http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="Singapore",CNA (1080p) [Geo-blocked]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="Singapore",CNA Originals (1080p)
@@ -317,6 +319,10 @@ https://stream1.freetv.fun/cc4ff19107f6ab0828eec10d55d32411a1f8a84a3b4d400374dcb
 https://stream1.freetv.fun/08d9497150bf9fd42e7d96476fe350ae377d5326f03ebfe35e64f0bfad532310.ctv
 #EXTINF:-1 tvg-name="Sony One HD" tvg-id="369728" tvg-country="Singapore" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/sony_one.jpg" group-title="Singapore",[BD]sony one favoris[geo-blocked]
 https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-1.png" group-title="backup",CCTV-1 综合
+https://iptv.aibo.lol/live/cctv1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江苏卫视.png" group-title="backup",江苏卫视
+https://iptv.aibo.lol/live/jiangsuws.m3u8
 #EXTINF:-1 tvg-id="直播占位08" tvg-name="占位08" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位08
 https://iptv.aibo.lol/live/8.flv
 #EXTINF:-1 tvg-id="直播占位09" tvg-name="占位09" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",占位09
@@ -353,8 +359,8 @@ https://iptv.aibo.lol/live/23.flv
 https://iptv.aibo.lol/live/24.flv
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="backup",FussBall TV
 https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
-#EXTINF:-1 tvg-name="8vos de Final: México v. Inglaterra" group-title="backup",8vos de Final: México v. Inglaterra_2026-07-06 06:10:00_1783289400000
-https://picture.shenniaokongque.top/event/9bda0e99-0720-3dce-ac25-53802f3bb618
+#EXTINF:-1 tvg-name="8vos de Final: Brasil v. Noruega" group-title="backup",8vos de Final: Brasil v. Noruega_2026-07-06 03:40:00_1783280400000
+https://picture.shenniaokongque.top/event/407b94f1-ad3f-3731-9427-23e5eb10baaf
 #EXTINF:-1 tvg-name="8vos de Final: Portugal v. España" group-title="backup",8vos de Final: Portugal v. España_2026-07-07 02:40:00_1783363200000
 https://picture.shenniaokongque.top/event/61feccd6-1c94-3146-b8f0-bcb61e56da7c
 #EXTINF:-1 tvg-name="8vos de Final: Estados Unidos v. Bélgica" group-title="backup",8vos de Final: Estados Unidos v. Bélgica_2026-07-07 05:10:00_1783372200000
@@ -369,6 +375,8 @@ https://iptv.aibo.lol/qd/hoy.m3u8
 https://iptv.aibo.lol/qd/hoy2.m3u8
 #EXTINF:-1 tvg-name="HOY资讯台" group-title="backup",HOY资讯台
 https://iptv.aibo.lol/qd/hoy78.m3u8
+#EXTINF:-1 tvg-name="HOY剧集台" group-title="backup",HOY剧集台
+https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-name="HOY国际财经台" group-title="backup",HOY国际财经台
 https://iptv.aibo.lol/qd/hoy76.m3u8
 #EXTINF:-1 tvg-name="ViuTV" group-title="backup",ViuTV
@@ -381,6 +389,8 @@ https://iptv.aibo.lol/qd/now.m3u8
 https://iptv.aibo.lol/qd/rthk31.m3u8
 #EXTINF:-1 tvg-name="RTHK32" group-title="backup",RTHK32
 https://iptv.aibo.lol/qd/rthk32.m3u8
+#EXTINF:-1 tvg-name="CCTV1港澳版" group-title="backup",CCTV1港澳版
+https://iptv.aibo.lol/jd/rthk33.m3u8
 #EXTINF:-1 tvg-name="澳视澳门" group-title="backup",澳视澳门
 https://iptv.aibo.lol/qd/asam.m3u8
 #EXTINF:-1 tvg-name="澳视卫星" group-title="backup",澳视卫星
@@ -406,9 +416,17 @@ https://iptv.aibo.lol/qd/tvbd.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台
 https://iptv.aibo.lol/qd/fct.m3u8
 #EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台
+https://iptv.aibo.lol/jd/fct2.m3u8
+#EXTINF:-1 tvg-name="翡翠台" group-title="backup",翡翠台
 https://iptv.aibo.lol/jd/fct4.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台
+https://iptv.aibo.lol/jd/mzt.m3u8
+#EXTINF:-1 tvg-name="明珠台" group-title="backup",明珠台
+https://iptv.aibo.lol/jd/mzt2.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" group-title="backup",无线新闻台
 https://iptv.aibo.lol/qd/wxxw.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" group-title="backup",无线新闻台
+https://iptv.aibo.lol/jd/tvbxw.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="backup",广东珠江
 https://iptv.aibo.lol/qd/gdzj.m3u8
 #EXTINF:-1 tvg-name="广东体育" group-title="backup",广东体育
@@ -443,6 +461,8 @@ https://iptv.aibo.lol/qd/xinghe.m3u8
 https://iptv.aibo.lol/qd/typd.m3u8
 #EXTINF:-1 tvg-name="天映经典" group-title="backup",天映经典
 https://iptv.aibo.lol/qd/ccm.m3u8
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" group-title="backup",TVB娱乐新闻台
+https://iptv.aibo.lol/jd/tvbylxw.m3u8
 #EXTINF:-1 tvg-name="海峡卫视" group-title="backup",海峡卫视
 https://iptv.aibo.lol/qd/hxws.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" group-title="backup",华丽翡翠台(硬字幕)
@@ -463,8 +483,6 @@ https://iptv.aibo.lol/qd/cctv16.m3u8
 https://iptv.aibo.lol/qd/cctv16-2.m3u8
 #EXTINF:-1 tvg-name="五星体育" group-title="backup",五星体育
 https://iptv.aibo.lol/qd/wxty.m3u8
-#EXTINF:-1 tvg-name="千禧经典" group-title="backup",千禧经典
-https://iptv.aibo.lol/ext/tvbclassic.m3u8
 #EXTINF:-1 tvg-name="外部聚合源" group-title="backup",外部聚合源
 https://iptv.aibo.lol/ext/198-m3u.m3u
 #EXTINF:-1 tvg-name="Yang聚合源" group-title="backup",Yang聚合源
@@ -479,6 +497,8 @@ https://iptv.aibo.lol/hk/tvb-plus.m3u8
 https://iptv.aibo.lol/hk/pearl.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台(多音轨字幕)" group-title="backup",华丽翡翠台(多音轨字幕)
 https://iptv.aibo.lol/hk/hlt.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" group-title="backup",华丽翡翠台(硬字幕)
+https://iptv.aibo.lol/hk/hlt-hard.m3u8
 #EXTINF:-1 tvg-name="华丽翡翠台(新加坡)" group-title="backup",华丽翡翠台(新加坡)
 https://iptv.aibo.lol/hk/jade-sg.m3u8
 #EXTINF:-1 tvg-name="Astro AOD(多音轨字幕)" group-title="backup",Astro AOD(多音轨字幕)
