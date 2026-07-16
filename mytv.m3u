@@ -169,10 +169,10 @@ https://stream1.freetv.fun/64c29bd5b35dada3cf243992697901fbc164b29081b5d56cc60cd
 https://stream1.freetv.fun/79697f2fb076ee976747482277f9a45e9563d9ae6bf6696ba83790ce81798a98.ctv
 #EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-id="2124" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="Malaysia",[BD]astro aod
 https://stream1.freetv.fun/d3caf993c1f3d40b248435a333d61b86a2175ce21d48c60915c684cc2d64436e.ctv
-#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="Malaysia",[HD]Astro Awani *tv
-https://stream1.freetv.fun/0fdaf263d27132270fb8fe3e20c8741c90ce87d270e49bb0534f2a10806fae10.ctv
 #EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="Malaysia",[HD]Astro Awani
 https://stream1.freetv.fun/e3d361050c78097c196a04b473c4c2cbcf0035e3d0124421d696810c7bbe46d3.m3u8
+#EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="Malaysia",[HD]Astro Awani *tv
+https://stream1.freetv.fun/0fdaf263d27132270fb8fe3e20c8741c90ce87d270e49bb0534f2a10806fae10.ctv
 #EXTINF:-1 tvg-name="ASTRO Aura" tvg-id="3770" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003930806033_58.png" group-title="Malaysia",[HD]Astro Aura *tv
 https://stream1.freetv.fun/a29625e3423d81ac598013ce1ef4bc1f281db34276b6780f50c6ecc1b22b3688.ctv
 #EXTINF:-1 tvg-name="ASTRO Ceria" tvg-id="3533" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/dbdae817baad59318e5fb9393ef96455.jpg" group-title="Malaysia",[HD]Astro Ceria *tv
@@ -289,8 +289,6 @@ https://stream1.freetv.fun/9f2daaa220e1fa466c5f9b1300306c578c2497e4e7a93b357991d
 https://stream1.freetv.fun/92edb18274de3ea70c0de69579f0d0e5b54d3d9be62f4ba887407b2dd377a4dc.m3u8
 #EXTINF:-1 tvg-name="Hits(TW)" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg" group-title="Singapore",[BD]xite hits
 https://stream1.freetv.fun/350a54a564633d554db45e511483c39c085a55ddf1336bfc308ee1c6a1f75c66.m3u8
-#EXTINF:-1 tvg-name="Lifetime Asia" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/03/large/20230603001622847044_84.png" group-title="Singapore",[BD]asia
-https://stream1.freetv.fun/cc4ff19107f6ab0828eec10d55d32411a1f8a84a3b4d400374dcbf59527dce4e.ctv
 #EXTINF:-1 tvg-name="Mediacorp Channel U" tvg-id="" tvg-country="Singapore" tvg-language="Chinese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/19/20160519140203515097_77.jpg" group-title="Singapore",[SD]Mediacorp U *$
 https://stream1.freetv.fun/b1e833539d1119139053415148835f6cef26b79b64645ed4c1d98635d3758d82.m3u8
 #EXTINF:-1 tvg-name="Rock Action" tvg-id="" tvg-country="Singapore" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg" group-title="Singapore",[BD]ROCK Action *$
@@ -330,25 +328,43 @@ https://iptv.aibo.lol/qd/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
 https://iptv.aibo.lol/qd/cctv5-2.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
+https://iptv.aibo.lol/live/cctv5plus.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
 https://cdn.qd.je/163189/cctv5p-2
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
 https://iptv.aibo.lol/qd/cctv5p.m3u8
 #EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="backup",CCTV-6 电影
+https://iptv.aibo.lol/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-6.png" group-title="backup",CCTV-6 电影
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+#EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-7.png" group-title="backup",CCTV-7 国防军事
+https://iptv.aibo.lol/live/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-7.png" group-title="backup",CCTV-7 国防军事
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV-8 电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8.png" group-title="backup",CCTV-8 电视剧
+https://iptv.aibo.lol/live/cctv8.m3u8
+#EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV-8 电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8.png" group-title="backup",CCTV-8 电视剧
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+#EXTINF:-1 tvg-id="CCTV-9 纪录" tvg-name="CCTV-9 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-9.png" group-title="backup",CCTV-9 纪录
+https://iptv.aibo.lol/live/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV-9 纪录" tvg-name="CCTV-9 纪录" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-9.png" group-title="backup",CCTV-9 纪录
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 #EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-10.png" group-title="backup",CCTV-10 科教
+https://iptv.aibo.lol/live/cctv10.m3u8
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV-10 科教" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-10.png" group-title="backup",CCTV-10 科教
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv10
+#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-11.png" group-title="backup",CCTV-11 戏曲
+https://iptv.aibo.lol/live/cctv11.m3u8
 #EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV-11 戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-11.png" group-title="backup",CCTV-11 戏曲
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV-12 社会与法" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-12.png" group-title="backup",CCTV-12 社会与法
+https://iptv.aibo.lol/live/cctv12.m3u8
+#EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV-12 社会与法" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-12.png" group-title="backup",CCTV-12 社会与法
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv12
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="backup",CCTV-13 新闻
+https://iptv.aibo.lol/live/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="backup",CCTV-13 新闻
 https://cdn.qd.je/163189/cctv13-2
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="backup",CCTV-13 新闻
@@ -358,7 +374,11 @@ https://iptv.aibo.lol/qd/cctv13.m3u8
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV-13 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-13.png" group-title="backup",CCTV-13 新闻
 https://iptv.aibo.lol/qd/cctv13-2.m3u8
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-14.png" group-title="backup",CCTV-14 少儿
+https://iptv.aibo.lol/live/cctv14.m3u8
+#EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV-14 少儿" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-14.png" group-title="backup",CCTV-14 少儿
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv14
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-15.png" group-title="backup",CCTV-15 音乐
+https://iptv.aibo.lol/live/cctv15.m3u8
 #EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV-15 音乐" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-15.png" group-title="backup",CCTV-15 音乐
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="backup",CCTV-16 奥林匹克
@@ -371,6 +391,18 @@ https://cdn.qd.je/163189/cctv16-2
 https://iptv.aibo.lol/qd/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="backup",CCTV-16 奥林匹克
 https://iptv.aibo.lol/qd/cctv16-2.m3u8
+#EXTINF:-1 tvg-id="CCTV-16 奥林匹克4K" tvg-name="CCTV-16 奥林匹克4K" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV164K.png" group-title="backup",CCTV-16 奥林匹克4K
+https://iptv.aibo.lol/live/cctv164k.m3u8
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV-17 农业农村" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-17.png" group-title="backup",CCTV-17 农业农村
+https://iptv.aibo.lol/live/cctv17.m3u8
+#EXTINF:-1 tvg-id="CCTV-4K 超高清" tvg-name="CCTV-4K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4K.png" group-title="backup",CCTV-4K 超高清
+https://iptv.aibo.lol/live/cctv4k.m3u8
+#EXTINF:-1 tvg-id="CCTV-8K 超高清" tvg-name="CCTV-8K 超高清" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-8K.png" group-title="backup",CCTV-8K 超高清
+https://iptv.aibo.lol/live/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CGTN 英语" tvg-name="CGTN 英语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTN.png" group-title="backup",CGTN 英语
+https://iptv.aibo.lol/live/cgtn.m3u8
+#EXTINF:-1 tvg-id="CGTN 法语" tvg-name="CGTN 法语" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CGTNfr.png" group-title="backup",CGTN 法语
+https://iptv.aibo.lol/live/cgtnfayu.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江苏卫视.png" group-title="backup",江苏卫视
 https://iptv.aibo.lol/live/jiangsuws.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/东方卫视.png" group-title="backup",东方卫视
@@ -379,6 +411,24 @@ https://iptv.aibo.lol/live/dongfangws.m3u8
 https://iptv.aibo.lol/live/zhejiangws.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="backup",湖南卫视
 https://iptv.aibo.lol/live/hunanws.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖北卫视.png" group-title="backup",湖北卫视
+https://iptv.aibo.lol/live/hubeiws.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/安徽卫视.png" group-title="backup",安徽卫视
+https://iptv.aibo.lol/live/anhuiws.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/河北卫视.png" group-title="backup",河北卫视
+https://iptv.aibo.lol/live/hebeiws.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/山东卫视.png" group-title="backup",山东卫视
+https://iptv.aibo.lol/live/shandongws.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/陕西卫视.png" group-title="backup",陕西卫视
+https://iptv.aibo.lol/live/shannxiws.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/内蒙古卫视.png" group-title="backup",内蒙古卫视
+https://iptv.aibo.lol/live/neimengguws.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/云南卫视.png" group-title="backup",云南卫视
+https://iptv.aibo.lol/live/yunnanws.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/青海卫视.png" group-title="backup",青海卫视
+https://iptv.aibo.lol/live/qinghaiws.m3u8
+#EXTINF:-1 tvg-id="中国教育电视台一套" tvg-name="中国教育电视台一套" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/中国教育电视台一套.png" group-title="backup",中国教育电视台一套
+https://iptv.aibo.lol/live/cetv1.m3u8
 #EXTINF:-1 tvg-id="世界杯中文多角度01" tvg-name="世界杯中文多角度01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",世界杯中文多角度01
 https://iptv.aibo.lol/live/1.flv
 #EXTINF:-1 tvg-id="世界杯中文多角度02" tvg-name="世界杯中文多角度02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="backup",世界杯中文多角度02
@@ -429,10 +479,10 @@ https://iptv.aibo.lol/live/23.flv
 https://iptv.aibo.lol/live/24.flv
 #EXTINF:-1 tvg-id="FussBall TV" tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="backup",FussBall TV
 https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
-#EXTINF:-1 tvg-id="Semifinal: Inglaterra v. Argentina_2026-07-16 02:40:00_1784140800000" tvg-name="Semifinal: Inglaterra v. Argentina_2026-07-16 02:40:00_1784140800000" group-title="backup",Semifinal: Inglaterra v. Argentina_2026-07-16 02:40:00_1784140800000
-https://picture.shenniaokongque.top/event/d92181b9-47cd-3aed-a6b5-12905a2449af
 #EXTINF:-1 tvg-id="El Mundial: Rumbo a la Gran Final_2026-07-17 01:10:00_1784221800000" tvg-name="El Mundial: Rumbo a la Gran Final_2026-07-17 01:10:00_1784221800000" group-title="backup",El Mundial: Rumbo a la Gran Final_2026-07-17 01:10:00_1784221800000
 https://picture.shenniaokongque.top/event/2f23cd09-151b-30f3-a50f-c0fc9bc2bce6
+#EXTINF:-1 tvg-id="El Mundial: Rumbo a la Gran Final_2026-07-18 01:10:00_1784308200000" tvg-name="El Mundial: Rumbo a la Gran Final_2026-07-18 01:10:00_1784308200000" group-title="backup",El Mundial: Rumbo a la Gran Final_2026-07-18 01:10:00_1784308200000
+https://picture.shenniaokongque.top/event/dd5114da-3bd8-3930-acb0-952db3445651
 #EXTINF:-1 tvg-id="TSN 4K" tvg-name="TSN 4K" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos/countries/canada/tsn-4k-ca.png" group-title="backup",TSN 4K
 https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
 #EXTINF:-1 tvg-id="Fox Sports 4K HDR" tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="backup",Fox Sports 4K HDR
@@ -448,7 +498,7 @@ https://cdn.qd.je/163189/fct4k
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="backup",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="backup",凤凰中文
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9TNjZPekFPMTAzM3piMmZwM0V1aVR6UklQYjhjYkl1QmJwRVpBcEZ3TXhCMVFheHlDOEF3N3F3MFNMT3lBM0NvL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9Yek5jRUxPMldlN0gtVndfVHNBYWVYQnZWOElRMUxzQmxjQ3NxVEZGM28yeUU4czJjdngtc2NvaC1FQTFGWVdjL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="backup",凤凰中文
 https://iptv.aibo.lol/qd/fhzw.m3u8
 #EXTINF:-1 tvg-id="CCTV1港澳版" tvg-name="CCTV1港澳版" group-title="backup",CCTV1港澳版
@@ -467,8 +517,6 @@ https://iptv.aibo.lol/qd/hoy.m3u8
 https://iptv.aibo.lol/qd/hoy2.m3u8
 #EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="backup",HOY资讯台
 https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="backup",HOY资讯台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC91MHpmMHFCelpfeFYyNW1mb3dRa3Y4WDNRODRiR3pnankzQzVMZUdxNHFqODZkU3BHLTQ5R18zRVJGYl9hU1U2L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="HOY资讯台" tvg-name="HOY资讯台" group-title="backup",HOY资讯台
 https://iptv.aibo.lol/qd/hoy78.m3u8
 #EXTINF:-1 tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" group-title="backup",HOY国际财经台
@@ -522,13 +570,13 @@ https://iptv.aibo.lol/qd/cwjd.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="backup",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="backup",凤凰资讯
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9JUnJLZHdVOEVDcVFnMkMyQUZXc2VFRmpPRDkyekxINXpteExxMHd4ZGx1b0FoVFY4dERQSDBGYUFNRDZCaXBIL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC96RTQ5UkhSdmNkemVHM1JuY0dfa2hDbXBoZmQ5XzYwQXVtQkozaEIybXVudm8zcHRQcGhDVFZ1ejltM3hJSFhpL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="backup",凤凰资讯
 https://iptv.aibo.lol/qd/fhzx.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="backup",凤凰香港
 https://cdn.qd.je/163189/fhhk
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="backup",凤凰香港
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9EMDd0c2JVN0NDY19LQi10TmR4Ulk1M3RrSHVaLWFreXVObTJkM016VlJ2djVMdXFiRjAzSTc0WmpZYnJUTTZrL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9sdlkzWU9PemxKbG43UUFtVWx2M0JsTldoMmtPSnZLVUQtRUIxWEFnLXpxZktpUE1pbTRYU3c5QkVJdlpmSngzL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="backup",凤凰香港
 https://iptv.aibo.lol/qd/fhhk.m3u8
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="backup",TVB1
@@ -543,8 +591,6 @@ https://cdn.qd.je/163189/tvbd
 https://iptv.aibo.lol/qd/tvbd.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="backup",翡翠台
 https://cdn.qd.je/163189/fct
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="backup",翡翠台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9lZExiVU5SN3Nsb3BMNFUtMHVWSTFwWXZSSFNCTDBzM3F2bVQtUUpJeHgtNUkyOTVFVktWMUFGNzBodjQwVXlPL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="backup",翡翠台
 https://iptv.aibo.lol/qd/fct.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="backup",翡翠台
@@ -570,7 +616,7 @@ https://iptv.aibo.lol/qd/gdzj.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="backup",广东体育
 https://cdn.qd.je/163189/gdty
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="backup",广东体育
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9fRHcyeUg1bXZ2MlRFcE1zY2Z3VXZWTWtpUEZJMUxWenljcjd2S0tzd1JVaXJ5Vi13MUNwS3c4SUdabjl0MDA4L2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC95Z1gxdFZzallJc2NfdTNicDZjaVNZRlRuQjBBXzVON3owbDJzTlhXYWNOQjY4MnZDVFFJTXRVNjRiUm5ST3dUL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" group-title="backup",广东体育
 https://iptv.aibo.lol/qd/gdty.m3u8
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" group-title="backup",八度空间
@@ -755,76 +801,118 @@ https://cdn.qd.je/163189/dsdy
 https://cdn.qd.je/163189/dsxj
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="backup",东森洋片
 https://cdn.qd.je/163189/dsyp
+#EXTINF:-1 tvg-id="NOW Sports 616 4K HK (Not 24/7) 01" tvg-name="NOW Sports 616 4K HK (Not 24/7) 01" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="backup",NOW Sports 616 4K HK (Not 24/7) 01
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9PcWI2d2hBck5wMEMzbEF1S25XYlRTZldCLWJVZml1d092N3h4UHZRMVdpaVpTTjZPR00xVlFrOHZWQ00wclVXL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="Now Sports 618" tvg-name="Now Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="backup",Now Sports 618
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC8ybWlaOXM0MFdzS1MybG5yY1pWZmZKMXJyMnNaYkg3Vk9sVy1MNFhSa2VVRWRpNHhZcUxwUy1WbTJ6dThCSGhLL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC90RXlDQjJ1VlhiUm11SXFBcmRPUHNaT0dfYVhvQ2VUVU5ZTWp1WUR1REVCdEhhSXVDVVEzTUlzenF6QW1DZlZ0L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="Fussball.TV 2 4K DE" tvg-name="Fussball.TV 2 4K DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Sportdigital_Fußball_stacked.svg" group-title="backup",Fussball.TV 2 4K DE
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC94cmRsUzlwSkFObmI1RFVjT2Fvc0tmQ1F4Y3RzTzd2TGwxV1FoZ05nRFgxVEE3cmlhdlk5Ml9fb1VrZ0d2bS1aL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC95SGRHdkVtUnltRVFjc09mbjQ4cXJjNEhDTGNUR2hGTU1vUERha21Hc0t3OWMwRW5QQVNVcGhYRFkxSm53NDEyL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="FUSSBALL.TV 1 UHD" tvg-name="FUSSBALL.TV 1 UHD" group-title="backup",FUSSBALL.TV 1 UHD
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC81dzZ4OXl4RzZSQi1obFpYaFg4clFRazRDN3otSEM4bkF2blljTTdoWmZLZDZhcDR4Qk9abDQ2XzEyLU01LTdML2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9Mb2tubV9YUk80RlA4dTRmRmFEOWtrUjZVbUJXUHhObzJMRHV6OXdTU0J1RFpwMk1ieXlKWFpKbTFPRXpzaWFiL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="Sky Sports F1 4K" tvg-name="Sky Sports F1 4K" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/hd/sky-sports-f1-uhd-uk.png?raw=true" group-title="backup",Sky Sports F1 4K
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9tN01CWlFuN0FBM2EzU3htcHFCTUF3bVp0dlExak51Uko0UFNmZ3lXek1yUk8xUWV5M2NubVQ0V0VYWUg1REFuL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="FUSSBALL.TV 2 UHD" tvg-name="FUSSBALL.TV 2 UHD" group-title="backup",FUSSBALL.TV 2 UHD
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC95SktKaFpELWN4dUUwMms0dVhIMDBQblFZMk9BbFlRSHBKeVRTcEJwQXBSYzlxTW55M2t0NTVZWmJLcFRUc25lL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9JbDY3TVNidkMyT2VaV3BzNE1Gdy1ZckVRTWhxOFdXdnB3RXBzaXRGc2h6RUhNMW1BZm1MYmtWSWI4aGZSdzRrL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="愛爾達體育3台" tvg-name="愛爾達體育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="backup",愛爾達體育3台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9yY2JhaS01TEltTm0zNFRUc1QwVV9CaDd5ZjMxSW50VlJsalVxSUdhdU1kTHY1ZWpNZ2p3Q29EY19WUXJabkpKL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9oTldRMFQ5MHJTY3V5TFRaV2dOcDJ1NGVnSjBtRWd3a1J3clBxVURRMGpFUVprWGUwYUstUG1YNWVIaFFTSHZHL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="愛爾達體育1台" tvg-name="愛爾達體育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="backup",愛爾達體育1台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9SUTZfYmV6WU5TMHZYWWV2OFJxNWVDWS1PdVlENUkwYzU4Y245S1l4aS1KZU02VFZIUzJzM2NEQ3lHS2hhVTdnL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9sWWY5dTFBZlY2STE0Z1hzUER5QXlPcWdVellKRTVGZEI0aHdCZ1ZXdXhkSEpPMlRjbXUzXzljRTN0NURpRlcyL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV6.png" group-title="backup",民視綜藝台
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9RUEF5Y09LOUxkQlY1VGxjZTFFSVFpOVVkaDJqR0tXM296SnRqXzlIQmlVTklJT1FweENpRnZIQlRqcVEzWldFL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR..png" group-title="backup",Nick Jr.
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC80NHpySnROSmk2VllwR0VYZldod3phcDUxSmJpYmQxVFBYanZvN3YwVFd0Z0RXRlNaSWExRGRsSi1INDJuNWJ4L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png" group-title="backup",PopC
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9tVzZVcVhVSjlTTkl4UDN3eFgxVGxqd2poOXRjUzhjM1Y1M2tKSzZDVEF3c1hRenBIRHJrU1F5eDc2bm43bUxSL2luZGV4Lm0zdTg
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9lWlhaZUM3VDlUSUdsd1F3Qlo2N0k3eEtidXJqbGtwR2hHZG5xUFZ1TEVBMmo5dG9yS2pkVkNQa3ZfQ3NVTEt4L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="backup",美亞電影台
-https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9EZ2U3VmxmN0xLN1dHWnFBb0ZKVGV5b2QwaDJWd05UazFXeGxNRm55UmIxaThvckM1M0lYTjZJZHhDbUtVTFRNL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-id="拖雷斯 vs 阿克托比B队 - 直播5 (线路1)" tvg-name="拖雷斯 vs 阿克托比B队 - 直播5 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1005.jpg?v=1780171883879" group-title="backup",拖雷斯 vs 阿克托比B队 - 直播5 (线路1)
-https://live.666666.zip/live/4519524.m3u8
-#EXTINF:-1 tvg-id="拖雷斯 vs 阿克托比B队 - 直播5 (线路2)" tvg-name="拖雷斯 vs 阿克托比B队 - 直播5 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1005.jpg?v=1780171883879" group-title="backup",拖雷斯 vs 阿克托比B队 - 直播5 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519524.m3u8?txSecret=1490723e05377d9e1a58dbc87beb0c99&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="普斯卡什学院 vs 巴萨克赛尔 - 直播9 (线路1)" tvg-name="普斯卡什学院 vs 巴萨克赛尔 - 直播9 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1009.jpg?v=1780171883879" group-title="backup",普斯卡什学院 vs 巴萨克赛尔 - 直播9 (线路1)
-https://live.666666.zip/live/4586010.m3u8
-#EXTINF:-1 tvg-id="FK阿雷斯 vs 图兰FC - 直播10 (线路1)" tvg-name="FK阿雷斯 vs 图兰FC - 直播10 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1010.jpg?v=1780171883879" group-title="backup",FK阿雷斯 vs 图兰FC - 直播10 (线路1)
-https://live.666666.zip/live/4519522.m3u8
-#EXTINF:-1 tvg-id="FK阿雷斯 vs 图兰FC - 直播10 (线路2)" tvg-name="FK阿雷斯 vs 图兰FC - 直播10 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1010.jpg?v=1780171883879" group-title="backup",FK阿雷斯 vs 图兰FC - 直播10 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519522.m3u8?txSecret=5d2721a887ab2ecd7c0d9d0385c78e40&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路1)" tvg-name="埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1011.jpg?v=1780171883879" group-title="backup",埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路1)
-https://live.666666.zip/live/4519523.m3u8
-#EXTINF:-1 tvg-id="埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路2)" tvg-name="埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1011.jpg?v=1780171883879" group-title="backup",埃基巴斯图兹 vs 卡拉干达矿工 - 直播11 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519523.m3u8?txSecret=8322114cc914f74fa2dd7780e86b2006&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="法国U20 vs 克罗地亚U20 - 直播15 (线路1)" tvg-name="法国U20 vs 克罗地亚U20 - 直播15 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1015.jpg?v=1780171883879" group-title="backup",法国U20 vs 克罗地亚U20 - 直播15 (线路1)
-https://live.666666.zip/live/3924999.m3u8
-#EXTINF:-1 tvg-id="法国U20 vs 克罗地亚U20 - 直播15 (线路2)" tvg-name="法国U20 vs 克罗地亚U20 - 直播15 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1015.jpg?v=1780171883879" group-title="backup",法国U20 vs 克罗地亚U20 - 直播15 (线路2)
-https://pul-tenm.gkykp.com/live/sd-2-3924999.m3u8?txSecret=07f51987d4224c70b94546d3254dddd1&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="阿梅德 vs 巴统迪纳摩 - 直播16 (线路1)" tvg-name="阿梅德 vs 巴统迪纳摩 - 直播16 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1016.jpg?v=1780171883879" group-title="backup",阿梅德 vs 巴统迪纳摩 - 直播16 (线路1)
-https://live.666666.zip/live/4586172.m3u8
-#EXTINF:-1 tvg-id="阿梅德 vs 巴统迪纳摩 - 直播16 (线路2)" tvg-name="阿梅德 vs 巴统迪纳摩 - 直播16 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1016.jpg?v=1780171883879" group-title="backup",阿梅德 vs 巴统迪纳摩 - 直播16 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4586172.m3u8?txSecret=39a7722ed9edbbd0c95e51c0e5b9f627&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路1)" tvg-name="拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1019.jpg?v=1780171883879" group-title="backup",拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路1)
-https://live.666666.zip/live/3924989.m3u8
-#EXTINF:-1 tvg-id="拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路2)" tvg-name="拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1019.jpg?v=1780171883879" group-title="backup",拉脱维亚U20 vs 罗马尼亚U20 - 直播19 (线路2)
-https://pul-tenm.gkykp.com/live/sd-2-3924989.m3u8?txSecret=581d4ad82ac6d705d10a5f40270159bb&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="拖雷斯 vs 阿克托比B队 - 原声39 (线路1)" tvg-name="拖雷斯 vs 阿克托比B队 - 原声39 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1239.jpg?v=1780171883879" group-title="backup",拖雷斯 vs 阿克托比B队 - 原声39 (线路1)
-https://live.666666.zip/live/4519524.m3u8
-#EXTINF:-1 tvg-id="拖雷斯 vs 阿克托比B队 - 原声39 (线路2)" tvg-name="拖雷斯 vs 阿克托比B队 - 原声39 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1239.jpg?v=1780171883879" group-title="backup",拖雷斯 vs 阿克托比B队 - 原声39 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519524.m3u8?txSecret=1490723e05377d9e1a58dbc87beb0c99&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="普斯卡什学院 vs 巴萨克赛尔 - 原声41 (线路1)" tvg-name="普斯卡什学院 vs 巴萨克赛尔 - 原声41 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1241.jpg?v=1780171883879" group-title="backup",普斯卡什学院 vs 巴萨克赛尔 - 原声41 (线路1)
-https://live.666666.zip/live/4586010.m3u8
-#EXTINF:-1 tvg-id="阿梅德 vs 巴统迪纳摩 - 原声43 (线路1)" tvg-name="阿梅德 vs 巴统迪纳摩 - 原声43 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1243.jpg?v=1780171883879" group-title="backup",阿梅德 vs 巴统迪纳摩 - 原声43 (线路1)
-https://live.666666.zip/live/4586172.m3u8
-#EXTINF:-1 tvg-id="阿梅德 vs 巴统迪纳摩 - 原声43 (线路2)" tvg-name="阿梅德 vs 巴统迪纳摩 - 原声43 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1243.jpg?v=1780171883879" group-title="backup",阿梅德 vs 巴统迪纳摩 - 原声43 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4586172.m3u8?txSecret=39a7722ed9edbbd0c95e51c0e5b9f627&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路1)" tvg-name="埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1248.jpg?v=1780171883879" group-title="backup",埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路1)
-https://live.666666.zip/live/4519523.m3u8
-#EXTINF:-1 tvg-id="埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路2)" tvg-name="埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1248.jpg?v=1780171883879" group-title="backup",埃基巴斯图兹 vs 卡拉干达矿工 - 原声48 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519523.m3u8?txSecret=8322114cc914f74fa2dd7780e86b2006&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="法国U20 vs 克罗地亚U20 - 原声58 (线路1)" tvg-name="法国U20 vs 克罗地亚U20 - 原声58 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1258.jpg?v=1780171883879" group-title="backup",法国U20 vs 克罗地亚U20 - 原声58 (线路1)
-https://live.666666.zip/live/3924999.m3u8
-#EXTINF:-1 tvg-id="法国U20 vs 克罗地亚U20 - 原声58 (线路2)" tvg-name="法国U20 vs 克罗地亚U20 - 原声58 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1258.jpg?v=1780171883879" group-title="backup",法国U20 vs 克罗地亚U20 - 原声58 (线路2)
-https://pul-tenm.gkykp.com/live/sd-2-3924999.m3u8?txSecret=07f51987d4224c70b94546d3254dddd1&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路1)" tvg-name="拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1259.jpg?v=1780171883879" group-title="backup",拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路1)
-https://live.666666.zip/live/3924989.m3u8
-#EXTINF:-1 tvg-id="拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路2)" tvg-name="拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1259.jpg?v=1780171883879" group-title="backup",拉脱维亚U20 vs 罗马尼亚U20 - 原声59 (线路2)
-https://pul-tenm.gkykp.com/live/sd-2-3924989.m3u8?txSecret=581d4ad82ac6d705d10a5f40270159bb&txTime=6A5A2FC0
-#EXTINF:-1 tvg-id="FK阿雷斯 vs 图兰FC - 原声101 (线路1)" tvg-name="FK阿雷斯 vs 图兰FC - 原声101 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1301.jpg?v=1780171883879" group-title="backup",FK阿雷斯 vs 图兰FC - 原声101 (线路1)
-https://live.666666.zip/live/4519522.m3u8
-#EXTINF:-1 tvg-id="FK阿雷斯 vs 图兰FC - 原声101 (线路2)" tvg-name="FK阿雷斯 vs 图兰FC - 原声101 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1301.jpg?v=1780171883879" group-title="backup",FK阿雷斯 vs 图兰FC - 原声101 (线路2)
-https://pul-tenm.gkykp.com/live/sd-1-4519522.m3u8?txSecret=5d2721a887ab2ecd7c0d9d0385c78e40&txTime=6A5A2FC0
+https://iptv.aibo.lol/proxy/aHR0cHM6Ly9pcHR2Ljg1Mjg1MS54eXovbC9ycUo4QV9PaVRRTTF6Vlg3N0gzRkNLeHBZeEtJOUZMSUhZaE82U25EQ0lUMGxSbldMM0NzSWgtU0s3aC1rNzdEL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-id="图尔库国际 vs 萨拉热窝 - 直播3 (线路1)" tvg-name="图尔库国际 vs 萨拉热窝 - 直播3 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1003.jpg?v=1780171883879" group-title="backup",图尔库国际 vs 萨拉热窝 - 直播3 (线路1)
+https://live.666666.zip/live/4556555.m3u8
+#EXTINF:-1 tvg-id="图尔库国际 vs 萨拉热窝 - 直播3 (线路2)" tvg-name="图尔库国际 vs 萨拉热窝 - 直播3 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1003.jpg?v=1780171883879" group-title="backup",图尔库国际 vs 萨拉热窝 - 直播3 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556555.m3u8?txSecret=cdcf046a5f7f9477165988c6ba7dff68&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="古泰斯拖比度 vs 兹拉 - 直播7 (线路1)" tvg-name="古泰斯拖比度 vs 兹拉 - 直播7 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1007.jpg?v=1780171883879" group-title="backup",古泰斯拖比度 vs 兹拉 - 直播7 (线路1)
+https://live.666666.zip/live/4556585.m3u8
+#EXTINF:-1 tvg-id="古泰斯拖比度 vs 兹拉 - 直播7 (线路2)" tvg-name="古泰斯拖比度 vs 兹拉 - 直播7 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1007.jpg?v=1780171883879" group-title="backup",古泰斯拖比度 vs 兹拉 - 直播7 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556585.m3u8?txSecret=8529bdc7b3196c0139ddfd7190b73a91&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路1)" tvg-name="叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1001.jpg?v=1780171883879" group-title="backup",叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路1)
+https://live.666666.zip/live/4556535.m3u8
+#EXTINF:-1 tvg-id="叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路2)" tvg-name="叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1001.jpg?v=1780171883879" group-title="backup",叶利迈塞米 vs 艾拉斯克特 - 直播1 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556535.m3u8?txSecret=33be556d8dc5d86b258eb378a2d10325&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="阿斯塔纳 vs 迪纳摩城 - 直播2 (线路1)" tvg-name="阿斯塔纳 vs 迪纳摩城 - 直播2 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1002.jpg?v=1780171883879" group-title="backup",阿斯塔纳 vs 迪纳摩城 - 直播2 (线路1)
+https://live.666666.zip/live/4556551.m3u8
+#EXTINF:-1 tvg-id="阿斯塔纳 vs 迪纳摩城 - 直播2 (线路2)" tvg-name="阿斯塔纳 vs 迪纳摩城 - 直播2 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1002.jpg?v=1780171883879" group-title="backup",阿斯塔纳 vs 迪纳摩城 - 直播2 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556551.m3u8?txSecret=443a95fea79d68b31ed92658814b9e41&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="派德 vs 黑格尔曼 - 直播5 (线路1)" tvg-name="派德 vs 黑格尔曼 - 直播5 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1005.jpg?v=1780171883879" group-title="backup",派德 vs 黑格尔曼 - 直播5 (线路1)
+https://live.666666.zip/live/4556559.m3u8
+#EXTINF:-1 tvg-id="派德 vs 黑格尔曼 - 直播5 (线路2)" tvg-name="派德 vs 黑格尔曼 - 直播5 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1005.jpg?v=1780171883879" group-title="backup",派德 vs 黑格尔曼 - 直播5 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556559.m3u8?txSecret=0524c9910e7d44e3c86674e98b88cafe&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="圣约瑟FC vs 波希米亚人 - 直播6 (线路1)" tvg-name="圣约瑟FC vs 波希米亚人 - 直播6 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1006.jpg?v=1780171883879" group-title="backup",圣约瑟FC vs 波希米亚人 - 直播6 (线路1)
+https://live.666666.zip/live/4556537.m3u8
+#EXTINF:-1 tvg-id="圣约瑟FC vs 波希米亚人 - 直播6 (线路2)" tvg-name="圣约瑟FC vs 波希米亚人 - 直播6 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1006.jpg?v=1780171883879" group-title="backup",圣约瑟FC vs 波希米亚人 - 直播6 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556537.m3u8?txSecret=7727b25497d1f4d332ba57569c1e2bf2&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="埃尔维斯 vs 迪弗当日 - 直播8 (线路1)" tvg-name="埃尔维斯 vs 迪弗当日 - 直播8 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1008.jpg?v=1780171883879" group-title="backup",埃尔维斯 vs 迪弗当日 - 直播8 (线路1)
+https://live.666666.zip/live/4556545.m3u8
+#EXTINF:-1 tvg-id="埃尔维斯 vs 迪弗当日 - 直播8 (线路2)" tvg-name="埃尔维斯 vs 迪弗当日 - 直播8 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1008.jpg?v=1780171883879" group-title="backup",埃尔维斯 vs 迪弗当日 - 直播8 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556545.m3u8?txSecret=ee524bdb667549380913d80d1a230639&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路1)" tvg-name="埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1009.jpg?v=1780171883879" group-title="backup",埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路1)
+https://live.666666.zip/live/4556565.m3u8
+#EXTINF:-1 tvg-id="埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路2)" tvg-name="埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1009.jpg?v=1780171883879" group-title="backup",埃里温凤凰 vs 马沙斯洛克 - 直播9 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556565.m3u8?txSecret=24a860b21a9824593274e9ce57321fd8&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="德国U20 vs 西班牙U20 - 直播23 (线路1)" tvg-name="德国U20 vs 西班牙U20 - 直播23 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1023.jpg?v=1780171883879" group-title="backup",德国U20 vs 西班牙U20 - 直播23 (线路1)
+https://live.666666.zip/live/3924988.m3u8
+#EXTINF:-1 tvg-id="缔造者 vs 纳萨夫 - 直播30 (线路1)" tvg-name="缔造者 vs 纳萨夫 - 直播30 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1030.jpg?v=1780171883879" group-title="backup",缔造者 vs 纳萨夫 - 直播30 (线路1)
+https://live.666666.zip/live/4488069.m3u8
+#EXTINF:-1 tvg-id="缔造者 vs 纳萨夫 - 直播30 (线路2)" tvg-name="缔造者 vs 纳萨夫 - 直播30 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1030.jpg?v=1780171883879" group-title="backup",缔造者 vs 纳萨夫 - 直播30 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4488069.m3u8?txSecret=92e6b58c50c6e5e185e0431fd8ba1dde&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="立陶宛U20 vs 比利时U20 - 直播31 (线路1)" tvg-name="立陶宛U20 vs 比利时U20 - 直播31 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1031.jpg?v=1780171883879" group-title="backup",立陶宛U20 vs 比利时U20 - 直播31 (线路1)
+https://live.666666.zip/live/3925008.m3u8
+#EXTINF:-1 tvg-id="斯拉文 vs 帕克斯 - 直播34 (线路1)" tvg-name="斯拉文 vs 帕克斯 - 直播34 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1034.jpg?v=1780171883879" group-title="backup",斯拉文 vs 帕克斯 - 直播34 (线路1)
+https://live.666666.zip/live/4585563.m3u8
+#EXTINF:-1 tvg-id="斯拉文 vs 帕克斯 - 直播34 (线路2)" tvg-name="斯拉文 vs 帕克斯 - 直播34 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1034.jpg?v=1780171883879" group-title="backup",斯拉文 vs 帕克斯 - 直播34 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4585563.m3u8?txSecret=cf37752d25e5a947f0c989190b104f72&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="费尔干纳夫兹 vs 布哈拉 - 直播35 (线路1)" tvg-name="费尔干纳夫兹 vs 布哈拉 - 直播35 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1035.jpg?v=1780171883879" group-title="backup",费尔干纳夫兹 vs 布哈拉 - 直播35 (线路1)
+https://live.666666.zip/live/4488072.m3u8
+#EXTINF:-1 tvg-id="费尔干纳夫兹 vs 布哈拉 - 直播35 (线路2)" tvg-name="费尔干纳夫兹 vs 布哈拉 - 直播35 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1035.jpg?v=1780171883879" group-title="backup",费尔干纳夫兹 vs 布哈拉 - 直播35 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4488072.m3u8?txSecret=e3fe0ea76c89d6a3ee31c75f3aa53e2d&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路1)" tvg-name="索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1036.jpg?v=1780171883879" group-title="backup",索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路1)
+https://live.666666.zip/live/4488075.m3u8
+#EXTINF:-1 tvg-id="索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路2)" tvg-name="索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1036.jpg?v=1780171883879" group-title="backup",索格迪纳吉扎克 vs 花刺子模乌尔根奇 - 直播36 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4488075.m3u8?txSecret=86d8538fe3538299b6298dc51edbf6c5&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路1)" tvg-name="LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1037.jpg?v=1780171883879" group-title="backup",LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路1)
+https://live.666666.zip/live/4585562.m3u8
+#EXTINF:-1 tvg-id="LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路2)" tvg-name="LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1037.jpg?v=1780171883879" group-title="backup",LNZ切尔卡瑟 vs 哥兹塔比 - 直播37 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4585562.m3u8?txSecret=93ffec4130a1c8919b1a92ec52b7a97c&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="雅盖隆 vs 布拉格斯巴达 - 直播38 (线路1)" tvg-name="雅盖隆 vs 布拉格斯巴达 - 直播38 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1038.jpg?v=1780171883879" group-title="backup",雅盖隆 vs 布拉格斯巴达 - 直播38 (线路1)
+https://live.666666.zip/live/4586164.m3u8
+#EXTINF:-1 tvg-id="雅盖隆 vs 布拉格斯巴达 - 直播38 (线路2)" tvg-name="雅盖隆 vs 布拉格斯巴达 - 直播38 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1038.jpg?v=1780171883879" group-title="backup",雅盖隆 vs 布拉格斯巴达 - 直播38 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4586164.m3u8?txSecret=3b781c03395858d358f60a65aaab6af1&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="图尔库国际 vs 萨拉热窝 - 原声24 (线路1)" tvg-name="图尔库国际 vs 萨拉热窝 - 原声24 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1224.jpg?v=1780171883879" group-title="backup",图尔库国际 vs 萨拉热窝 - 原声24 (线路1)
+https://live.666666.zip/live/4556555.m3u8
+#EXTINF:-1 tvg-id="图尔库国际 vs 萨拉热窝 - 原声24 (线路2)" tvg-name="图尔库国际 vs 萨拉热窝 - 原声24 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1224.jpg?v=1780171883879" group-title="backup",图尔库国际 vs 萨拉热窝 - 原声24 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556555.m3u8?txSecret=cdcf046a5f7f9477165988c6ba7dff68&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="阿斯塔纳 vs 迪纳摩城 - 原声21 (线路1)" tvg-name="阿斯塔纳 vs 迪纳摩城 - 原声21 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1221.jpg?v=1780171883879" group-title="backup",阿斯塔纳 vs 迪纳摩城 - 原声21 (线路1)
+https://live.666666.zip/live/4556551.m3u8
+#EXTINF:-1 tvg-id="阿斯塔纳 vs 迪纳摩城 - 原声21 (线路2)" tvg-name="阿斯塔纳 vs 迪纳摩城 - 原声21 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1221.jpg?v=1780171883879" group-title="backup",阿斯塔纳 vs 迪纳摩城 - 原声21 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556551.m3u8?txSecret=443a95fea79d68b31ed92658814b9e41&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="圣约瑟FC vs 波希米亚人 - 原声35 (线路1)" tvg-name="圣约瑟FC vs 波希米亚人 - 原声35 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1235.jpg?v=1780171883879" group-title="backup",圣约瑟FC vs 波希米亚人 - 原声35 (线路1)
+https://live.666666.zip/live/4556537.m3u8
+#EXTINF:-1 tvg-id="圣约瑟FC vs 波希米亚人 - 原声35 (线路2)" tvg-name="圣约瑟FC vs 波希米亚人 - 原声35 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1235.jpg?v=1780171883879" group-title="backup",圣约瑟FC vs 波希米亚人 - 原声35 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556537.m3u8?txSecret=7727b25497d1f4d332ba57569c1e2bf2&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="派德 vs 黑格尔曼 - 原声45 (线路1)" tvg-name="派德 vs 黑格尔曼 - 原声45 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1245.jpg?v=1780171883879" group-title="backup",派德 vs 黑格尔曼 - 原声45 (线路1)
+https://live.666666.zip/live/4556559.m3u8
+#EXTINF:-1 tvg-id="派德 vs 黑格尔曼 - 原声45 (线路2)" tvg-name="派德 vs 黑格尔曼 - 原声45 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1245.jpg?v=1780171883879" group-title="backup",派德 vs 黑格尔曼 - 原声45 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556559.m3u8?txSecret=0524c9910e7d44e3c86674e98b88cafe&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="德国U20 vs 西班牙U20 - 原声62 (线路1)" tvg-name="德国U20 vs 西班牙U20 - 原声62 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1262.jpg?v=1780171883879" group-title="backup",德国U20 vs 西班牙U20 - 原声62 (线路1)
+https://live.666666.zip/live/3924988.m3u8
+#EXTINF:-1 tvg-id="叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路1)" tvg-name="叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1210.jpg?v=1780171883879" group-title="backup",叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路1)
+https://live.666666.zip/live/4556535.m3u8
+#EXTINF:-1 tvg-id="叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路2)" tvg-name="叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1210.jpg?v=1780171883879" group-title="backup",叶利迈塞米 vs 艾拉斯克特 - 原声10 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556535.m3u8?txSecret=33be556d8dc5d86b258eb378a2d10325&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路1)" tvg-name="埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1217.jpg?v=1780171883879" group-title="backup",埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路1)
+https://live.666666.zip/live/4556565.m3u8
+#EXTINF:-1 tvg-id="埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路2)" tvg-name="埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1217.jpg?v=1780171883879" group-title="backup",埃里温凤凰 vs 马沙斯洛克 - 原声17 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4556565.m3u8?txSecret=24a860b21a9824593274e9ce57321fd8&txTime=6A5A52E8
+#EXTINF:-1 tvg-id="缔造者 vs 纳萨夫 - 原声26 (线路1)" tvg-name="缔造者 vs 纳萨夫 - 原声26 (线路1)" tvg-logo="https://kafeizhibo.com/static/screenshots/1226.jpg?v=1780171883879" group-title="backup",缔造者 vs 纳萨夫 - 原声26 (线路1)
+https://live.666666.zip/live/4488069.m3u8
+#EXTINF:-1 tvg-id="缔造者 vs 纳萨夫 - 原声26 (线路2)" tvg-name="缔造者 vs 纳萨夫 - 原声26 (线路2)" tvg-logo="https://kafeizhibo.com/static/screenshots/1226.jpg?v=1780171883879" group-title="backup",缔造者 vs 纳萨夫 - 原声26 (线路2)
+https://pul-tenm.gkykp.com/live/sd-1-4488069.m3u8?txSecret=92e6b58c50c6e5e185e0431fd8ba1dde&txTime=6A5A52E8
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="backup",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" group-title="backup",TVB J1
