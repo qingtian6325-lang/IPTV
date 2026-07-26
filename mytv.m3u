@@ -5,14 +5,8 @@ http://198.204.228.26/live/cctv1hd.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视",CCTV-1
-http://198.204.240.250:82/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="📺央视",CCTV-1
-http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
-http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视",CCTV-2
@@ -25,8 +19,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
 http://121.57.88.206:898/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="📺央视",CCTV-3
-http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="📺央视",CCTV-4
@@ -54,11 +46,7 @@ http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
 http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
-http://198.204.240.250:82/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视",CCTV-6
-http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
@@ -67,8 +55,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="📺央视",CCTV-7
-http://69.30.245.50/live/cctv7.m3u8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="📺央视",CCTV-8
@@ -87,16 +73,12 @@ http://198.204.228.26/live/cctv9hd.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv9hd
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
 http://192.151.150.154/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="📺央视",CCTV-9
-http://69.30.245.50/live/cctv9.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 http://192.151.150.154/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
-http://69.30.245.50/live/cctv10.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="📺央视",CCTV-10
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="📺央视",CCTV-11
@@ -121,8 +103,6 @@ http://74.91.26.218:82/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视",CCTV-13
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
 http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="📺央视",CCTV-14
@@ -165,8 +145,6 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 https://stream1.freetv.fun/d3caf993c1f3d40b248435a333d61b86a2175ce21d48c60915c684cc2d64436e.ctv
 #EXTINF:-1 tvg-name="ASTRO AWANI" tvg-id="3958" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/10/07/large/20161007154237536876_79.jpg" group-title="Malaysia",[HD]Astro Awani
 https://stream1.freetv.fun/e3d361050c78097c196a04b473c4c2cbcf0035e3d0124421d696810c7bbe46d3.m3u8
-#EXTINF:-1 tvg-name="Astro TVS" tvg-id="3942" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222138178348_52.png" group-title="Malaysia",[BD]tvs
-https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa493c12593ce1.m3u8
 #EXTINF:-1 tvg-name="Astro 歡喜臺" tvg-id="1951" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171639594544_91.jpg" group-title="Malaysia",[BD]astro欢喜
 https://stream1.freetv.fun/a8f1224bdbc6c031e867d9ead759c9354e5ffc52b183634456706092b8c299d6.ctv
 #EXTINF:-1 tvg-name="Awesome tv" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/11/28/large/20231128184149398211_42.png" group-title="Malaysia",[HD]people are awesome[geo-blocked]
@@ -175,6 +153,8 @@ https://stream1.freetv.fun/abf95d64d6b99b58cf22e820d4a23b100bd711dca69e448638402
 https://stream1.freetv.fun/ff6a41f0f7c538f45b2c8495005998fd9ffe91010f153a65b9054f8e003bdec1.m3u8
 #EXTINF:-1 tvg-name="Bernama TV" tvg-id="1835" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg" group-title="Malaysia",[BD]bergamo tv
 https://stream1.freetv.fun/239865eb44f2ac54627025e83a852da8a3296a2aaa7820876e726e1e9ac6e901.m3u8
+#EXTINF:-1 tvg-name="Disney XD(MAS)" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118220221148799_40.png" group-title="Malaysia",[VGA]disney xd west
+https://stream1.freetv.fun/565fec8e769522a08af5d921598062a3083c11dd355380652d0004123c1840f9.m3u8
 #EXTINF:-1 tvg-name="MY TV" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020608557074_23.png" group-title="Malaysia",[SD]my tv
 https://stream1.freetv.fun/5407c8ac740649b585e102d6813256d837315420ea95bd11dc5b4416e2d3aaa2.m3u8
 #EXTINF:-1 tvg-name="Mara TV" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222252166727_36.png" group-title="Malaysia",[BD]ahora tv
@@ -191,7 +171,7 @@ https://stream1.freetv.fun/61f4c5029c51c2d57b7040e6592bdd118fb619f5a9cf1cd6a6850
 https://stream1.freetv.fun/3a88f55139022e90fe1d9729ad32a8579543da9dcd490926ab9f6e2b40049a0a.m3u8
 #EXTINF:-1 tvg-name="RTM Sports" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Malaysia",[BD]m sports
 https://stream1.freetv.fun/5dc8870d072a5dcf36f729c923a42b111f572133696e7d07fb90b28af27dba54.m3u8
-#EXTINF:-1 tvg-name="Radio Sunnah FM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/05/22/large/20210522020504218619_88.png" group-title="Malaysia",[HD]radio 89 fm
+#EXTINF:-1 tvg-name="Radio Sunnah FM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/05/22/large/20210522020504218619_88.png" group-title="Malaysia",[VGA]radio 89 fm
 https://stream1.freetv.fun/aac848e7d4540a45adcbdfdc091bbf62c4fb9bd54a954b495b2b05cd08ae05a0.m3u8
 #EXTINF:-1 tvg-name="TV1" tvg-id="3683" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2016/10/04/large/20161004184847688856_98.jpg" group-title="Malaysia",[BD]ltv1
 https://stream1.freetv.fun/77eb835535b209ab447031612798281c2a6ab30179f81d95d65520bd38a38241.m3u8
@@ -264,7 +244,11 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV-3 综艺" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-3.png" group-title="backup",CCTV-3 综艺
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="backup",CCTV-4 中文国际
+https://iptv.aibo.lol/live/cctv4.m3u8
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="backup",CCTV-4 中文国际
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
+https://iptv.aibo.lol/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
 https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
@@ -273,6 +257,8 @@ https://cdn.qd.je/163189/cctv5-2
 https://iptv.aibo.lol/qd/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="backup",CCTV-5 体育
 https://iptv.aibo.lol/qd/cctv5-2.m3u8
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
+https://iptv.aibo.lol/live/cctv5plus.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="backup",CCTV-5+ 体育赛事
@@ -367,8 +353,6 @@ https://cdn.staticres.top/p/2e78179a-b837-4050-bd1c-a260536c755c
 https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
 #EXTINF:-1 tvg-id="Fox Sports 4K HDR" tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="backup",Fox Sports 4K HDR
 https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="backup",五星体育
-http://82.156.243.185:54321/wxty.php
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="backup",五星体育
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="backup",五星体育
@@ -673,62 +657,38 @@ https://cdn.qd.je/163189/dsdy
 https://cdn.qd.je/163189/dsxj
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="backup",东森洋片
 https://cdn.qd.je/163189/dsyp
-#EXTINF:-1 tvg-id="⚽ 塞路 vs 蒙特维多竞技 1-0 [原声91]" tvg-name="⚽ 塞路 vs 蒙特维多竞技 1-0 [原声91]" tvg-logo="https://cdn.sportnanoapi.com/football/team/327368d0bd89e670a231bf92bb790675.png" group-title="backup",⚽ 塞路 vs 蒙特维多竞技 1-0 [原声91]
-https://pul-tenm.gkykp.com/live/sd-1-4579738.m3u8?txSecret=ba40da652b5348ffd654ddaa718d611d&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 普罗夫迪夫火车头 vs 索菲亚塞普泰姆夫里 1-1 [原声81]" tvg-name="⚽ 普罗夫迪夫火车头 vs 索菲亚塞普泰姆夫里 1-1 [原声81]" tvg-logo="https://cdn.sportnanoapi.com/football/team/940bb92f83d40985137748d0d3aeb213.png" group-title="backup",⚽ 普罗夫迪夫火车头 vs 索菲亚塞普泰姆夫里 1-1 [原声81]
-https://pul-tenm.gkykp.com/live/sd-1-4554061.m3u8?txSecret=0b9bc77dd5efdbf16f46cbbe3f65b5bd&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 渥太华竞技 vs 太平洋FC 0-0 [原声44]" tvg-name="⚽ 渥太华竞技 vs 太平洋FC 0-0 [原声44]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c050aaae65b61e563cdc5d50c5af6212.png" group-title="backup",⚽ 渥太华竞技 vs 太平洋FC 0-0 [原声44]
-https://pul-tenm.gkykp.com/live/sd-1-4492289.m3u8?txSecret=bc9c6b8eae1e0a6f80715cc126e9c3ae&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 波哥大国际 vs 卡利美洲 0-0 [原声169]" tvg-name="⚽ 波哥大国际 vs 卡利美洲 0-0 [原声169]" tvg-logo="https://cdn.sportnanoapi.com/football/team/265454b5fee1950f8aa1173147c8c593.png" group-title="backup",⚽ 波哥大国际 vs 卡利美洲 0-0 [原声169]
-https://pul-tenm.gkykp.com/live/sd-1-4569201.m3u8?txSecret=cb93da4b58103b4d9e7ea807303f34ee&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 马瑟瓦沙巴 vs 贝尔格莱德游击 0-1 [原声19]" tvg-name="⚽ 马瑟瓦沙巴 vs 贝尔格莱德游击 0-1 [原声19]" tvg-logo="https://cdn.sportnanoapi.com/football/team/002ba069c51b525d13f7a83a35336a07.png" group-title="backup",⚽ 马瑟瓦沙巴 vs 贝尔格莱德游击 0-1 [原声19]
-https://pul-tenm.gkykp.com/live/sd-1-4554571.m3u8?txSecret=064d7ea80073e673efd46e45a4722fc5&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 马拉多特 vs 诺维帕扎尔 0-0 [原声97]" tvg-name="⚽ 马拉多特 vs 诺维帕扎尔 0-0 [原声97]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e64d3418718f4415783fcfaca7db3448.png" group-title="backup",⚽ 马拉多特 vs 诺维帕扎尔 0-0 [原声97]
-https://pul-tenm.gkykp.com/live/sd-1-4554572.m3u8?txSecret=74d389b7f052d729aaeae00336ad4335&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 维纳伯格 vs 维也纳快速 0-0 [原声51]" tvg-name="⚽ 维纳伯格 vs 维也纳快速 0-0 [原声51]" tvg-logo="https://cdn.sportnanoapi.com/football/team/58b46f02c9c551bc46142b711e4e94ef.png" group-title="backup",⚽ 维纳伯格 vs 维也纳快速 0-0 [原声51]
-https://pul-tenm.gkykp.com/live/sd-1-4561853.m3u8?txSecret=8a51e46d8abacffc040730c9a3493c30&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 亚松森奥林匹亚 vs 亚松森自由 0-0 [原声7]" tvg-name="⚽ 亚松森奥林匹亚 vs 亚松森自由 0-0 [原声7]" tvg-logo="https://cdn.sportnanoapi.com/football/team/d6e78ecc939ce8a547c948fb894d7a32.png" group-title="backup",⚽ 亚松森奥林匹亚 vs 亚松森自由 0-0 [原声7]
-https://pul-tenm.gkykp.com/live/sd-1-4462176.m3u8?txSecret=c52830207518dae83e9b38595b34c78b&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 克里丘马 vs 累西腓航海 0-0 [原声160]" tvg-name="⚽ 克里丘马 vs 累西腓航海 0-0 [原声160]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="backup",⚽ 克里丘马 vs 累西腓航海 0-0 [原声160]
-https://pul-tenm.gkykp.com/live/sd-1-4495720.m3u8?txSecret=1bd0cfdbdfb99f430efad0493c9391b6&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 克鲁塞罗 vs 博塔弗戈 0-0 [原声13]" tvg-name="⚽ 克鲁塞罗 vs 博塔弗戈 0-0 [原声13]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3fe9281df0fdaf026741ff54ac24bdeb.png" group-title="backup",⚽ 克鲁塞罗 vs 博塔弗戈 0-0 [原声13]
-https://pul-tenm.gkykp.com/live/sd-1-4465757.m3u8?txSecret=fc40cab0e0f5f8a73cbb75e14a2be2a3&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 巴伊亚 vs 科林蒂安 0-1 [原声96]" tvg-name="⚽ 巴伊亚 vs 科林蒂安 0-1 [原声96]" tvg-logo="https://cdn.sportnanoapi.com/football/team/20456802ad5f8243dc282c4650c414e1.png" group-title="backup",⚽ 巴伊亚 vs 科林蒂安 0-1 [原声96]
-https://pul-tenm.gkykp.com/live/sd-1-4465775.m3u8?txSecret=a0c7bc1c009e9ca466d145d5c08d2915&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 赫拉德茨 vs 帕尔杜比斯 1-0 [原声200]" tvg-name="⚽ 赫拉德茨 vs 帕尔杜比斯 1-0 [原声200]" tvg-logo="https://cdn.sportnanoapi.com/football/team/dd15a15753a6907bf6479c96756d58b6.png" group-title="backup",⚽ 赫拉德茨 vs 帕尔杜比斯 1-0 [原声200]
-https://pul-tenm.gkykp.com/live/sd-1-4568764.m3u8?txSecret=f04e0f9facbbe0c250bd1f7871dab350&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 科佩尔 vs 拉多姆列 0-2 [原声53]" tvg-name="⚽ 科佩尔 vs 拉多姆列 0-2 [原声53]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e62d9ac93919ce609ccc531a44c69bee.png" group-title="backup",⚽ 科佩尔 vs 拉多姆列 0-2 [原声53]
-https://pul-tenm.gkykp.com/live/sd-1-4560908.m3u8?txSecret=940b1efce1234e8fbdeb2fe057e472d5&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 努布伦斯 vs 帕莱斯蒂诺 0-0 [原声161]" tvg-name="⚽ 努布伦斯 vs 帕莱斯蒂诺 0-0 [原声161]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png" group-title="backup",⚽ 努布伦斯 vs 帕莱斯蒂诺 0-0 [原声161]
-https://pul-tenm.gkykp.com/live/sd-1-4476402.m3u8?txSecret=deac29cabac6cd238cb4ac6d4ec0eea8&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 克拉科夫 vs GKS卡托威斯 0-0 [原声63]" tvg-name="⚽ 克拉科夫 vs GKS卡托威斯 0-0 [原声63]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3bf72dbe870d64929ce0120521717977.png" group-title="backup",⚽ 克拉科夫 vs GKS卡托威斯 0-0 [原声63]
-https://pul-tenm.gkykp.com/live/sd-1-4559253.m3u8?txSecret=8f8c0b01cac6eef702cd4631323d8187&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 塞维利亚 vs 休达 0-0 [原声52]" tvg-name="⚽ 塞维利亚 vs 休达 0-0 [原声52]" tvg-logo="https://cdn.sportnanoapi.com/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png" group-title="backup",⚽ 塞维利亚 vs 休达 0-0 [原声52]
-https://pul-tenm.gkykp.com/live/sd-1-4594468.m3u8?txSecret=2eb59ce6292c573f5d6ea4521a9beb8a&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 卡哈马卡 vs 莫克瓜 0-0 [原声26]" tvg-name="⚽ 卡哈马卡 vs 莫克瓜 0-0 [原声26]" tvg-logo="https://cdn.sportnanoapi.com/football/team/c2767b71e70059af4a695f5716e6a2e7.png" group-title="backup",⚽ 卡哈马卡 vs 莫克瓜 0-0 [原声26]
-https://pul-tenm.gkykp.com/live/sd-1-4550680.m3u8?txSecret=a82c44d3a3bb9d930d061fad572f023b&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ FK米耶尔库雷亚丘克 vs 布加勒斯特星 0-2 [原声196]" tvg-name="⚽ FK米耶尔库雷亚丘克 vs 布加勒斯特星 0-2 [原声196]" tvg-logo="https://cdn.sportnanoapi.com/football/team/bdfa2df481714f2ea787ee7fe973b4a6.png" group-title="backup",⚽ FK米耶尔库雷亚丘克 vs 布加勒斯特星 0-2 [原声196]
-https://pul-tenm.gkykp.com/live/sd-1-4567466.m3u8?txSecret=76da99e8e82d761cb485c9a59382a2f5&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 圣米格尔 vs 阿卡苏索 0-0 [原声8]" tvg-name="⚽ 圣米格尔 vs 阿卡苏索 0-0 [原声8]" tvg-logo="https://cdn.sportnanoapi.com/football/team/167d36c2bdb0fb5d887bc909aa26a88a.png" group-title="backup",⚽ 圣米格尔 vs 阿卡苏索 0-0 [原声8]
-https://pul-tenm.gkykp.com/live/sd-1-4471292.m3u8?txSecret=55ef5f346ff3993c62bcda10a2190462&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 米特雷圣地亚哥竞技 vs 阿尔米兰提布朗 0-0 [原声34]" tvg-name="⚽ 米特雷圣地亚哥竞技 vs 阿尔米兰提布朗 0-0 [原声34]" tvg-logo="https://cdn.sportnanoapi.com/football/team/38841431983b80b4d77567b257db194f.png" group-title="backup",⚽ 米特雷圣地亚哥竞技 vs 阿尔米兰提布朗 0-0 [原声34]
-https://pul-tenm.gkykp.com/live/sd-1-4471281.m3u8?txSecret=384cc1d4980215642c9dd40dbddb41c3&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 科隆竞技 vs 查克佛伊维 0-1 [原声88]" tvg-name="⚽ 科隆竞技 vs 查克佛伊维 0-1 [原声88]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a7fa07ce3b6d59d682c8c18ce44cf2fb.png" group-title="backup",⚽ 科隆竞技 vs 查克佛伊维 0-1 [原声88]
-https://pul-tenm.gkykp.com/live/sd-1-4471282.m3u8?txSecret=03c9be16e8bc8f832130ab0b4d04ed91&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 米德兰 vs 帕特罗纳图 0-0 [原声89]" tvg-name="⚽ 米德兰 vs 帕特罗纳图 0-0 [原声89]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a0384799afdbb817eb5f9071fc65fab1.png" group-title="backup",⚽ 米德兰 vs 帕特罗纳图 0-0 [原声89]
-https://pul-tenm.gkykp.com/live/sd-1-4471288.m3u8?txSecret=dcaed6cb7a63b44c4bd16d6ad0304e4a&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 科多巴竞赛会 vs 圣德尔模 0-0 [原声98]" tvg-name="⚽ 科多巴竞赛会 vs 圣德尔模 0-0 [原声98]" tvg-logo="https://cdn.sportnanoapi.com/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png" group-title="backup",⚽ 科多巴竞赛会 vs 圣德尔模 0-0 [原声98]
-https://pul-tenm.gkykp.com/live/sd-1-4471290.m3u8?txSecret=85b9be10f0c8c77b7000a447747576ee&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 卡洛斯卡萨雷斯农业 vs 圣胡安圣马丁 0-1 [原声148]" tvg-name="⚽ 卡洛斯卡萨雷斯农业 vs 圣胡安圣马丁 0-1 [原声148]" tvg-logo="https://cdn.sportnanoapi.com/football/team/82c7dcf4a3073c69601c49b2e726af2a.png" group-title="backup",⚽ 卡洛斯卡萨雷斯农业 vs 圣胡安圣马丁 0-1 [原声148]
-https://pul-tenm.gkykp.com/live/sd-1-4471276.m3u8?txSecret=ece4f01db83d5332fd9e7368b0292301&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 全男孩竞技 vs 贝尔格拉诺防卫队 0-0 [原声195]" tvg-name="⚽ 全男孩竞技 vs 贝尔格拉诺防卫队 0-0 [原声195]" tvg-logo="https://cdn.sportnanoapi.com/football/team/398fe0a0ed3c0dfb6a4afdfb8bc6cb7a.png" group-title="backup",⚽ 全男孩竞技 vs 贝尔格拉诺防卫队 0-0 [原声195]
-https://pul-tenm.gkykp.com/live/sd-1-4471277.m3u8?txSecret=574292a641b225af2af7fc17d9a8bdb2&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 玛伦 vs 费罗卡利 2-0 [原声197]" tvg-name="⚽ 玛伦 vs 费罗卡利 2-0 [原声197]" tvg-logo="https://cdn.sportnanoapi.com/football/team/f772b20418c5809e65bf731740e235e4.png" group-title="backup",⚽ 玛伦 vs 费罗卡利 2-0 [原声197]
-https://pul-tenm.gkykp.com/live/sd-1-4471283.m3u8?txSecret=a6e0e1105647a63e66eb7c6cb4700835&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 洛斯安第斯 vs 玛德恩 0-0 [原声199]" tvg-name="⚽ 洛斯安第斯 vs 玛德恩 0-0 [原声199]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a5f4e3112868e5c8a21b1cd87e9393f0.png" group-title="backup",⚽ 洛斯安第斯 vs 玛德恩 0-0 [原声199]
-https://pul-tenm.gkykp.com/live/sd-1-4471287.m3u8?txSecret=29106ec7e574fa94d8155502df6b4455&txTime=6A67AD08
-#EXTINF:-1 tvg-id="⚽ 图库曼竞技 vs 门多萨独立 0-0 [原声193]" tvg-name="⚽ 图库曼竞技 vs 门多萨独立 0-0 [原声193]" tvg-logo="https://cdn.sportnanoapi.com/football/team/2d87cf3b426597f02435e2c72e8def93.png" group-title="backup",⚽ 图库曼竞技 vs 门多萨独立 0-0 [原声193]
-https://pul-tenm.gkykp.com/live/sd-1-4539626.m3u8?txSecret=bce550ccbb431e7272d9b131f51ca565&txTime=6A67AD08
+#EXTINF:-1 tvg-id="⚽ 奥伦斯CS vs 山谷独立 0-1 [原声16]" tvg-name="⚽ 奥伦斯CS vs 山谷独立 0-1 [原声16]" tvg-logo="https://cdn.sportnanoapi.com/football/team/6aee0e3c4adf0a133ff26dd20c7ea29f.png" group-title="backup",⚽ 奥伦斯CS vs 山谷独立 0-1 [原声16]
+https://pul-tenm.gkykp.com/live/sd-1-4492558.m3u8?txSecret=cc4063ae90b98f36b6c09b835422475c&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 帕特里奥坦斯 vs 国际帕尔米拉 0-1 [原声57]" tvg-name="⚽ 帕特里奥坦斯 vs 国际帕尔米拉 0-1 [原声57]" tvg-logo="https://cdn.sportnanoapi.com/football/team/96580e883dc95fa190949d98e2c3e259.png" group-title="backup",⚽ 帕特里奥坦斯 vs 国际帕尔米拉 0-1 [原声57]
+https://pul-tenm.gkykp.com/live/sd-1-4594050.m3u8?txSecret=f98989fb4b00af25d781ff606018ef7d&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 亚松森瓜拉尼 vs 卢克尼奥竞技 0-0 [原声62]" tvg-name="⚽ 亚松森瓜拉尼 vs 卢克尼奥竞技 0-0 [原声62]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1a72de006966355cce5d44b54fa8079b.png" group-title="backup",⚽ 亚松森瓜拉尼 vs 卢克尼奥竞技 0-0 [原声62]
+https://pul-tenm.gkykp.com/live/sd-1-4462175.m3u8?txSecret=ad03b789b2a388bd600df7791e5d02df&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 米内罗美洲 vs 戈亚斯 0-0 [原声99]" tvg-name="⚽ 米内罗美洲 vs 戈亚斯 0-0 [原声99]" tvg-logo="https://cdn.sportnanoapi.com/football/team/24403efa393f55163b5593c435bbe4a7.png" group-title="backup",⚽ 米内罗美洲 vs 戈亚斯 0-0 [原声99]
+https://pul-tenm.gkykp.com/live/sd-1-4494639.m3u8?txSecret=d6bee5c1c5acb0e590e40791a6550075&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 隆德里纳 vs 诺瓦里桑蒂诺 1-1 [原声173]" tvg-name="⚽ 隆德里纳 vs 诺瓦里桑蒂诺 1-1 [原声173]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9d3195be22d95cf5d35790272afc724a.png" group-title="backup",⚽ 隆德里纳 vs 诺瓦里桑蒂诺 1-1 [原声173]
+https://pul-tenm.gkykp.com/live/sd-1-4494644.m3u8?txSecret=cdec200590de53a0099d601a1f6a9774&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 弗拉门戈 vs 圣保罗 0-0 [原声174]" tvg-name="⚽ 弗拉门戈 vs 圣保罗 0-0 [原声174]" tvg-logo="https://cdn.sportnanoapi.com/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png" group-title="backup",⚽ 弗拉门戈 vs 圣保罗 0-0 [原声174]
+https://pul-tenm.gkykp.com/live/sd-1-4465731.m3u8?txSecret=802080383e45b1c084463529737a2477&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 布拉干蒂诺RB vs 科里蒂巴 0-0 [原声20]" tvg-name="⚽ 布拉干蒂诺RB vs 科里蒂巴 0-0 [原声20]" tvg-logo="https://cdn.sportnanoapi.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png" group-title="backup",⚽ 布拉干蒂诺RB vs 科里蒂巴 0-0 [原声20]
+https://pul-tenm.gkykp.com/live/sd-1-4465705.m3u8?txSecret=9757c162f00b5366c181b160fc7f3d2b&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 格雷米奥 vs 弗鲁米嫩塞 0-0 [原声32]" tvg-name="⚽ 格雷米奥 vs 弗鲁米嫩塞 0-0 [原声32]" tvg-logo="https://cdn.sportnanoapi.com/football/team/e1f593199d4ee1d98b2db8a9522b605f.png" group-title="backup",⚽ 格雷米奥 vs 弗鲁米嫩塞 0-0 [原声32]
+https://pul-tenm.gkykp.com/live/sd-1-4465754.m3u8?txSecret=d23f7c8aa4655e54eace004f052600de&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 奥达科斯 vs 智利大学 0-1 [原声109]" tvg-name="⚽ 奥达科斯 vs 智利大学 0-1 [原声109]" tvg-logo="https://cdn.sportnanoapi.com/football/team/7a8bb950293508aeb3199de3c45dd418.png" group-title="backup",⚽ 奥达科斯 vs 智利大学 0-1 [原声109]
+https://pul-tenm.gkykp.com/live/sd-1-4476398.m3u8?txSecret=80639d77fdcafd5b3bec3a00ee20a7a7&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 玻利瓦尔 vs 皇家波托斯 1-0 [原声166]" tvg-name="⚽ 玻利瓦尔 vs 皇家波托斯 1-0 [原声166]" tvg-logo="https://cdn.sportnanoapi.com/football/team/97b953630af2877305a6bcb90444dc72.png" group-title="backup",⚽ 玻利瓦尔 vs 皇家波托斯 1-0 [原声166]
+https://pul-tenm.gkykp.com/live/sd-1-4543798.m3u8?txSecret=586d64d112279b7813657ddd944348ab&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ Ada哈恩 vs 莫利诺斯 3-1 [原声56]" tvg-name="⚽ Ada哈恩 vs 莫利诺斯 3-1 [原声56]" tvg-logo="https://cdn.sportnanoapi.com/football/team/02760121e8fe6f90aa6ab8cca4c785cd.png" group-title="backup",⚽ Ada哈恩 vs 莫利诺斯 3-1 [原声56]
+https://pul-tenm.gkykp.com/live/sd-1-4559960.m3u8?txSecret=4ed5554fb6e8c82fb79fcdf25880c7eb&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 圣地亚哥波浪女足 vs 西雅图统治女足 0-2 [原声68]" tvg-name="⚽ 圣地亚哥波浪女足 vs 西雅图统治女足 0-2 [原声68]" tvg-logo="https://cdn.sportnanoapi.com/football/team/f9f96a7e0c789c86175f50d3bdc5cfee.png" group-title="backup",⚽ 圣地亚哥波浪女足 vs 西雅图统治女足 0-2 [原声68]
+https://pul-tenm.gkykp.com/live/sd-1-4511013.m3u8?txSecret=fdc01243acf899ecda5ef646572ec464&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 巴拿马U20 vs 加拿大U20 0-2 [原声55]" tvg-name="⚽ 巴拿马U20 vs 加拿大U20 0-2 [原声55]" tvg-logo="https://cdn.sportnanoapi.com/football/team/a159b2e2c6b3cb7bf0e92eb43fe27bdd.png" group-title="backup",⚽ 巴拿马U20 vs 加拿大U20 0-2 [原声55]
+https://pul-tenm.gkykp.com/live/sd-1-4589451.m3u8?txSecret=d8de86cc1b2a11fe8228d55961f1a8fc&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 波特兰伐木工后备队 vs 皇家君主 1-0 [原声54]" tvg-name="⚽ 波特兰伐木工后备队 vs 皇家君主 1-0 [原声54]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ca05b27dd2979a344914fd662c3471c7.png" group-title="backup",⚽ 波特兰伐木工后备队 vs 皇家君主 1-0 [原声54]
+https://pul-tenm.gkykp.com/live/sd-1-4593788.m3u8?txSecret=a87e17fdd4d2994f7369c29a18bdee4e&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 迪罗甘拿斯亚 vs 迈普 0-0 [原声59]" tvg-name="⚽ 迪罗甘拿斯亚 vs 迈普 0-0 [原声59]" tvg-logo="https://cdn.sportnanoapi.com/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png" group-title="backup",⚽ 迪罗甘拿斯亚 vs 迈普 0-0 [原声59]
+https://pul-tenm.gkykp.com/live/sd-1-4471285.m3u8?txSecret=934669f9c11e42d2a77ae1e0b2d27600&txTime=6A67D300
+#EXTINF:-1 tvg-id="⚽ 拉普拉塔大学生 vs 阿根廷独立 0-1 [原声66]" tvg-name="⚽ 拉普拉塔大学生 vs 阿根廷独立 0-1 [原声66]" tvg-logo="https://cdn.sportnanoapi.com/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png" group-title="backup",⚽ 拉普拉塔大学生 vs 阿根廷独立 0-1 [原声66]
+https://pul-tenm.gkykp.com/live/sd-1-4539630.m3u8?txSecret=e8c0a957000717a0ac717fc3b62a7271&txTime=6A67D300
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="backup",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" group-title="backup",TVB J1
@@ -741,6 +701,8 @@ https://iptv.aibo.lol/jd/mzt2.m3u8
 https://iptv.aibo.lol/qd/yzwx.m3u8
 #EXTINF:-1 tvg-id="天映频道(新加坡)" tvg-name="天映频道(新加坡)" group-title="backup",天映频道(新加坡)
 https://iptv.aibo.lol/qd/typd.m3u8
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" group-title="backup",千禧经典
+https://iptv.aibo.lol/ext/tvbclassic.m3u8
 #EXTINF:-1 tvg-id="外部聚合源" tvg-name="外部聚合源" group-title="backup",外部聚合源
 https://iptv.aibo.lol/ext/198-m3u.m3u
 #EXTINF:-1 tvg-id="翡翠台4K(多音轨字幕)" tvg-name="翡翠台4K(多音轨字幕)" group-title="backup",翡翠台4K(多音轨字幕)
