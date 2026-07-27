@@ -1,30 +1,30 @@
-# 📺 Personal IPTV Playlist Filter
+# 📺 个人 IPTV 自动化直播源
 
-Automatically aggregated and verified IPTV playlist featuring live stream channels from multiple sources, updated periodically via GitHub Actions.
+本项目是一个基于 GitHub Actions 构建的 IPTV 播放列表自动更新与死链过滤系统。
 
-## ✨ Features
+## ✨ 项目特色
 
-* **⚡ Auto-Filtered & Dead-Link Checked**: Built-in multithreaded link verification to remove dead streams automatically.
-* **🏷️ Clean Source-Based Categorization**: Channels are clearly categorized with prefix group titles (e.g., `juli-台湾频道`, `体育台-体育频道`, `Mytv-央视`).
-* **🔄 Automated Updates**: Continuously syncs and verifies active streams via GitHub Actions.
-* **📱 Universal Compatibility**: Works seamlessly across all major IPTV apps and smart TV platforms.
+* **⚡ 自动检测死链**：内置 Python 多线程并发检测，自动剔除无法播放的失效链接。
+* **🏷️ 结构化分类**：按照数据源动态添加标签前缀（如 `juli-台湾频道`、`体育台-体育频道`、`Mytv-央视`），方便在播放器中按源浏览。
+* **🔄 定时自动更新**：利用 GitHub Actions 定时运行检测，保持播放列表实时可用。
+* **📱 广泛兼容**：生成的标准 `.m3u` 文件完美兼容各类电视盒及手机播放器。
 
 ---
 
-## 📺 Channel Groups & Sources
+## 📺 频道来源与分类
 
-| Source Name | Included Content & Group Format |
+| 数据源名称 | 包含内容与分类示例 |
 | :--- | :--- |
-| **jackTV** | `jackTV-央视`, `jackTV-卫视`, `jackTV-港澳台` |
-| **juli** | `juli-台湾频道`, `juli-央视`, `juli-影视`, etc. |
-| **体育台** | `体育台-体育频道`, `体育台-央视` |
-| **Mytv** | `Mytv-央视`, `Mytv-卫视`, `Mytv-其他` |
+| **jackTV** | `jackTV-央视`、`jackTV-卫视`、`jackTV-港澳台` 等 |
+| **juli** | `juli-台湾频道`、`juli-央视`、`juli-影视` 等 |
+| **体育台** | `体育台-体育频道`、`体育台-央视` 等 |
+| **Mytv** | `Mytv-央视`、`Mytv-卫视`、`Mytv-其他` 等 |
 
 ---
 
-## 🔗 Playlist URL
+## 🔗 播放列表地址
 
-Copy and paste this M3U link directly into your IPTV player:
+将以下链接直接复制粘贴到您的 IPTV 播放器中即可：
 
 ```text
-[https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u](https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u)
+https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u
