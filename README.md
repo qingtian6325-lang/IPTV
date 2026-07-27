@@ -1,57 +1,30 @@
-# IPTV
+# 📺 Personal IPTV Playlist Filter
 
-Personal IPTV playlist with automatic updates using GitHub Actions.
+Automatically aggregated and verified IPTV playlist featuring live stream channels from multiple sources, updated periodically via GitHub Actions.
 
-## Features
+## ✨ Features
 
-* 📺 CCTV channels from Guovin IPTV
-* 🇲🇾 Malaysia channels
-* 🇸🇬 Singapore channels
-* 🔄 Automatic update every 3 hours
-* 🎯 Keep multiple sources for the same channel
-* 🆓 Completely free using GitHub Actions
-* 📱 Compatible with most IPTV players
+* **⚡ Auto-Filtered & Dead-Link Checked**: Built-in multithreaded link verification to remove dead streams automatically.
+* **🏷️ Clean Source-Based Categorization**: Channels are clearly categorized with prefix group titles (e.g., `juli-台湾频道`, `体育台-体育频道`, `Mytv-央视`).
+* **🔄 Automated Updates**: Continuously syncs and verifies active streams via GitHub Actions.
+* **📱 Universal Compatibility**: Works seamlessly across all major IPTV apps and smart TV platforms.
 
-## Channel Groups
+---
 
-* 📺 央视
-* 🇲🇾 Malaysia
-* 🇸🇬 Singapore
+## 📺 Channel Groups & Sources
 
-## Playlist URL
+| Source Name | Included Content & Group Format |
+| :--- | :--- |
+| **jackTV** | `jackTV-央视`, `jackTV-卫视`, `jackTV-港澳台` |
+| **juli** | `juli-台湾频道`, `juli-央视`, `juli-影视`, etc. |
+| **体育台** | `体育台-体育频道`, `体育台-央视` |
+| **Mytv** | `Mytv-央视`, `Mytv-卫视`, `Mytv-其他` |
+
+---
+
+## 🔗 Playlist URL
+
+Copy and paste this M3U link directly into your IPTV player:
 
 ```text
-https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u
-```
-
-## Sources
-
-* Guovin IPTV API
-* IPTV-org Malaysia
-* IPTV-org Singapore
-* EPG.PW Malaysia
-* EPG.PW Singapore
-
-## Auto Update
-
-This repository uses GitHub Actions to update the playlist automatically every 3 hours.
-
-## Supported Players
-
-* TiviMate
-* OTT Navigator
-* IPTV Pro
-* Sparkle TV
-* VLC
-* Kodi
-
-## Notes
-
-* CCTV channels are taken only from the Guovin IPTV source.
-* Malaysia and Singapore channels are merged into a single playlist.
-* Multiple streams for the same channel are preserved.
-* The playlist URL remains unchanged after updates.
-
-## Disclaimer
-
-This repository only aggregates publicly available IPTV sources from the internet. All content belongs to their respective owners.
+[https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u](https://raw.githubusercontent.com/qingtian6325-lang/IPTV/main/mytv.m3u)
