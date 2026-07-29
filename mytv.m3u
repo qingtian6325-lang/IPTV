@@ -8,6 +8,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="jackTV-央视",CCTV-4 中文国际
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
+https://iptv.aibo.lol/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
 https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
 https://cdn.qd.je/163189/cctv5-2
@@ -55,10 +57,6 @@ https://cdn.qd.je/163189/cctv16-2
 https://iptv.aibo.lol/qd/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="jackTV-央视",CCTV-16 奥林匹克
 https://iptv.aibo.lol/qd/cctv16-2.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/江苏卫视.png" group-title="jackTV-卫视",江苏卫视
-https://iptv.aibo.lol/live/jiangsuws.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/湖南卫视.png" group-title="jackTV-卫视",湖南卫视
-https://iptv.aibo.lol/live/hunanws.m3u8
 #EXTINF:-1 tvg-id="世界杯中文多角度01" tvg-name="世界杯中文多角度01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="jackTV-世界杯中文多角度",世界杯中文多角度01
 https://iptv.aibo.lol/live/1.flv
 #EXTINF:-1 tvg-id="世界杯中文多角度02" tvg-name="世界杯中文多角度02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="jackTV-世界杯中文多角度",世界杯中文多角度02
@@ -173,6 +171,8 @@ https://cdn.qd.je/163189/asam
 https://iptv.aibo.lol/qd/asam.m3u8
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" group-title="jackTV-港澳台",澳视卫星
 https://cdn.qd.je/163189/as
+#EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" group-title="jackTV-港澳台",澳视卫星
+https://iptv.aibo.lol/qd/as.m3u8
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" group-title="jackTV-港澳台",澳门体育
 https://cdn.qd.je/163189/amty
 #EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" group-title="jackTV-港澳台",澳门体育
@@ -417,10 +417,22 @@ https://cdn.qd.je/163189/dsdy
 https://cdn.qd.je/163189/dsxj
 #EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" group-title="jackTV-港澳台",东森洋片
 https://cdn.qd.je/163189/dsyp
-#EXTINF:-1 tvg-id="⚽ 五月二日体育会 vs 波特诺山丘 1-0 [原声11]" tvg-name="⚽ 五月二日体育会 vs 波特诺山丘 1-0 [原声11]" tvg-logo="https://cdn.sportnanoapi.com/football/team/ef90155d7ce7ad5223e50df90eff5d19.png" group-title="jackTV-巴拉甲",⚽ 五月二日体育会 vs 波特诺山丘 1-0 [原声11]
-https://pul-tenm.gkykp.com/live/sd-1-4595003.m3u8?txSecret=54fbe5b54c18ec6ffb8c8664b3e5d5c8&txTime=6A6A7768
-#EXTINF:-1 tvg-id="⚽ 海地U20 vs 古巴U20 2-0 [原声94]" tvg-name="⚽ 海地U20 vs 古巴U20 2-0 [原声94]" tvg-logo="https://cdn.sportnanoapi.com/football/team/087bc7552322045ad94868390dce5b37.png" group-title="jackTV-美青杯",⚽ 海地U20 vs 古巴U20 2-0 [原声94]
-https://pul-tenm.gkykp.com/live/sd-1-4589443.m3u8?txSecret=65cf228894675ec5b70c8f54a10b38de&txTime=6A6A7768
+#EXTINF:-1 tvg-id="🏀 王牌 vs 火焰 36-25 [原声56]" tvg-name="🏀 王牌 vs 火焰 36-25 [原声56]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png" group-title="jackTV-WNBA",🏀 王牌 vs 火焰 36-25 [原声56]
+https://pul-tenm.gkykp.com/live/hd-en-2-3908934.m3u8?txSecret=85da491e6b84452af2c1d0e93f3a10ab&txTime=6A6AB728
+#EXTINF:-1 tvg-id="🏀 风暴 vs 狂热 42-51 [原声34]" tvg-name="🏀 风暴 vs 狂热 42-51 [原声34]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/21275a59516956d98aedc00b97faadc4.png" group-title="jackTV-WNBA",🏀 风暴 vs 狂热 42-51 [原声34]
+https://pul-tenm.gkykp.com/live/hd-en-2-3908985.m3u8?txSecret=dc0c04494405d92ba1b78d1e3b988d22&txTime=6A6AB728
+#EXTINF:-1 tvg-id="🏀 火花 vs 自由人 39-41 [原声57]" tvg-name="🏀 火花 vs 自由人 39-41 [原声57]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png" group-title="jackTV-WNBA",🏀 火花 vs 自由人 39-41 [原声57]
+https://pul-tenm.gkykp.com/live/hd-en-2-3908966.m3u8?txSecret=6d75711f4d75ee602e87504739643870&txTime=6A6AB728
+#EXTINF:-1 tvg-id="🏀 新疆天山女篮 vs 合肥文旅女篮 26-34 [原声42]" tvg-name="🏀 新疆天山女篮 vs 合肥文旅女篮 26-34 [原声42]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/f7f59b30d166277fab63075d539a5c93.png" group-title="jackTV-体育",🏀 新疆天山女篮 vs 合肥文旅女篮 26-34 [原声42]
+https://pul-tenm.gkykp.com/live/sd-2-3924181.m3u8?txSecret=657c066c9c18e6665f25126fe0fdb7d2&txTime=6A6AB728
+#EXTINF:-1 tvg-id="⚽ 骑兵队 vs 魁北克苏普拉 1-1 [原声16]" tvg-name="⚽ 骑兵队 vs 魁北克苏普拉 1-1 [原声16]" tvg-logo="https://cdn.sportnanoapi.com/football/team/b19bd906560a2ff7e4339e37a5ce109d.png" group-title="jackTV-加拿职",⚽ 骑兵队 vs 魁北克苏普拉 1-1 [原声16]
+https://pul-tenm.gkykp.com/live/sd-1-4527533.m3u8?txSecret=a8d69098f1ca0cfa13d34fee548dac62&txTime=6A6AB728
+#EXTINF:-1 tvg-id="⚽ 锡帕基拉老虎 vs 国民竞技 0-2 [原声33]" tvg-name="⚽ 锡帕基拉老虎 vs 国民竞技 0-2 [原声33]" tvg-logo="https://cdn.sportnanoapi.com/football/team/8eaf7a1c977421912b949fb270d3365a.png" group-title="jackTV-哥伦杯",⚽ 锡帕基拉老虎 vs 国民竞技 0-2 [原声33]
+https://pul-tenm.gkykp.com/live/sd-1-4544615.m3u8?txSecret=2dd7a3e754d2f48439b4902631699576&txTime=6A6AB728
+#EXTINF:-1 tvg-id="⚽ 太空人 vs 走鹃 23-17 [原声58]" tvg-name="⚽ 太空人 vs 走鹃 23-17 [原声58]" tvg-logo="https://cdn.sportnanoapi.com/basketball/team/3570376dc486d7d2f5686a88c72ed25c.png" group-title="jackTV-墨联",⚽ 太空人 vs 走鹃 23-17 [原声58]
+https://pul-tenm.gkykp.com/live/sd-2-3925244.m3u8?txSecret=ad4b832d814548484500f0dce7a0f5db&txTime=6A6AB728
+#EXTINF:-1 tvg-id="⚽ 萨尔瓦多U20 vs 美国U20 0-0 [原声8]" tvg-name="⚽ 萨尔瓦多U20 vs 美国U20 0-0 [原声8]" tvg-logo="https://cdn.sportnanoapi.com/football/team/3c7f7c2dae5b4e1dd398cffb26391a58.png" group-title="jackTV-美青杯",⚽ 萨尔瓦多U20 vs 美国U20 0-0 [原声8]
+https://pul-tenm.gkykp.com/live/sd-1-4589444.m3u8?txSecret=17b3aabde0f6a5296429a855a250f83b&txTime=6A6AB728
 #EXTINF:-1 tvg-id="HOY剧集台" tvg-name="HOY剧集台" group-title="jackTV-港澳台",HOY剧集台
 https://iptv.aibo.lol/jd/hoyjj.m3u8
 #EXTINF:-1 tvg-id="TVB J1" tvg-name="TVB J1" group-title="jackTV-港澳台",TVB J1
@@ -445,8 +457,6 @@ https://iptv.aibo.lol/hk/jade.m3u8
 https://iptv.aibo.lol/hk/tvb-plus.m3u8
 #EXTINF:-1 tvg-id="明珠台(多音轨字幕)" tvg-name="明珠台(多音轨字幕)" group-title="jackTV-港澳台",明珠台(多音轨字幕)
 https://iptv.aibo.lol/hk/pearl.m3u8
-#EXTINF:-1 tvg-id="华丽翡翠台(多音轨字幕)" tvg-name="华丽翡翠台(多音轨字幕)" group-title="jackTV-港澳台",华丽翡翠台(多音轨字幕)
-https://iptv.aibo.lol/hk/hlt.m3u8
 #EXTINF:-1 tvg-id="Astro AOD(多音轨字幕)" tvg-name="Astro AOD(多音轨字幕)" group-title="jackTV-港澳台",Astro AOD(多音轨字幕)
 https://iptv.aibo.lol/hk/aod.m3u8
 #EXTINF:-1 tvg-id="TVB星河(多音轨字幕)" tvg-name="TVB星河(多音轨字幕)" group-title="jackTV-港澳台",TVB星河(多音轨字幕)
@@ -469,8 +479,6 @@ http://cdn6.123.rr.kg/163189/tvbxh
 http://cdn10.123.rr.kg/163189/xinghe/
 #EXTINF:-1 tvg-name="华丽翡翠台1" tvg-logo="https://logo.catvod.com/华丽翡翠台1.png" group-title="juli-港澳频道",华丽翡翠台1
 http://cdn6.123.rr.kg/163189/hlfct
-#EXTINF:-1 tvg-name="华丽翡翠台2" tvg-logo="https://logo.catvod.com/华丽翡翠台2.png" group-title="juli-港澳频道",华丽翡翠台2
-http://cdn3.123.rr.kg/stream/live/hlt/
 #EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(硬字幕).png" group-title="juli-港澳频道",华丽翡翠台(硬字幕)
 http://cdn6.123.rr.kg/163189/jade
 #EXTINF:-1 tvg-name="华丽翡翠台(新加坡)" tvg-logo="https://logo.catvod.com/华丽翡翠台(新加坡).png" group-title="juli-港澳频道",华丽翡翠台(新加坡)
@@ -843,22 +851,14 @@ https://cdn12.178.indevs.in/163189/jtxj
 https://cdn12.178.indevs.in/163189/jyxj
 #EXTINF:-1 tvg-name="影迷数位电影台C" tvg-logo="https://logo.catvod.com/影迷数位电影台C.png" group-title="juli-台湾C",影迷数位电影台C
 https://cdn12.178.indevs.in/163189/ymswdyt
-#EXTINF:-1 tvg-name="广东卫视D" tvg-logo="https://logo.catvod.com/广东卫视D.png" group-title="juli-卫视C",广东卫视D
-http://42.193.195.163:3000/608831231
+#EXTINF:-1 tvg-name="江苏卫视D" tvg-logo="https://logo.catvod.com/江苏卫视D.png" group-title="juli-卫视C",江苏卫视D
+http://42.193.195.163:3000/623899368
 #EXTINF:-1 tvg-name="东方卫视D" tvg-logo="https://logo.catvod.com/东方卫视D.png" group-title="juli-卫视C",东方卫视D
 http://42.193.195.163:3000/651632648
-#EXTINF:-1 tvg-name="陕西卫视D" tvg-logo="https://logo.catvod.com/陕西卫视D.png" group-title="juli-卫视C",陕西卫视D
-http://42.193.195.163:3000/738910838
 #EXTINF:-1 tvg-name="江西卫视D" tvg-logo="https://logo.catvod.com/江西卫视D.png" group-title="juli-卫视C",江西卫视D
 http://42.193.195.163:3000/783847495
-#EXTINF:-1 tvg-name="湖北卫视D" tvg-logo="https://logo.catvod.com/湖北卫视D.png" group-title="juli-卫视C",湖北卫视D
-http://42.193.195.163:3000/947472496
 #EXTINF:-1 tvg-name="吉林卫视D" tvg-logo="https://logo.catvod.com/吉林卫视D.png" group-title="juli-卫视C",吉林卫视D
 http://42.193.195.163:3000/947472500
-#EXTINF:-1 tvg-name="青海卫视D" tvg-logo="https://logo.catvod.com/青海卫视D.png" group-title="juli-卫视C",青海卫视D
-http://42.193.195.163:3000/947472506
-#EXTINF:-1 tvg-name="河南卫视D" tvg-logo="https://logo.catvod.com/河南卫视D.png" group-title="juli-卫视C",河南卫视D
-http://42.193.195.163:3000/790187291
 #EXTINF:-1 tvg-name="东南卫视D" tvg-logo="https://logo.catvod.com/东南卫视D.png" group-title="juli-卫视C",东南卫视D
 http://42.193.195.163:3000/790187291
 #EXTINF:-1 tvg-name="射雕英雄传D" tvg-logo="https://logo.catvod.com/射雕英雄传D.png" group-title="juli-卫视C",射雕英雄传D
@@ -925,10 +925,10 @@ http://104.152.209.49:8181/720p/cctv8k.m3u8
 http://104.152.209.49:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场D" tvg-logo="https://logo.catvod.com/CCTV-风云剧场D.png" group-title="juli-央卫D",CCTV-风云剧场D
 http://104.152.209.49:8181/720p/fyjc.m3u8
-#EXTINF:-1 tvg-name="CCTV-怀旧剧场D" tvg-logo="https://logo.catvod.com/CCTV-怀旧剧场D.png" group-title="juli-央卫D",CCTV-怀旧剧场D
-http://104.152.209.49:8181/720p/hjjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技D" tvg-logo="https://logo.catvod.com/CCTV-兵器科技D.png" group-title="juli-央卫D",CCTV-兵器科技D
 http://104.152.209.49:8181/720p/gfjs.m3u8
+#EXTINF:-1 tvg-name="CCTV-女性时尚D" tvg-logo="https://logo.catvod.com/CCTV-女性时尚D.png" group-title="juli-央卫D",CCTV-女性时尚D
+http://104.152.209.49:8181/720p/nxss.m3u8
 #EXTINF:-1 tvg-name="CCTV-世界地理D" tvg-logo="https://logo.catvod.com/CCTV-世界地理D.png" group-title="juli-央卫D",CCTV-世界地理D
 http://104.152.209.49:8181/720p/sjdl.m3u8
 #EXTINF:-1 tvg-name="CCTV-卫生健康D" tvg-logo="https://logo.catvod.com/CCTV-卫生健康D.png" group-title="juli-央卫D",CCTV-卫生健康D
@@ -949,8 +949,6 @@ http://104.152.209.49:8181/720p/cwjd.m3u8
 http://104.152.209.49:8181/720p/hnws.m3u8
 #EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
 http://104.152.209.49:8181/720p/hews.m3u8
-#EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
-http://104.152.209.49:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
 http://104.152.209.49:8181/720p/tjws.m3u8
 #EXTINF:-1 tvg-name="安徽卫视D" tvg-logo="https://logo.catvod.com/安徽卫视D.png" group-title="juli-央卫D",安徽卫视D
