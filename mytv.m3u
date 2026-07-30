@@ -359,6 +359,8 @@ https://cdn.qd.je/163189/tvbpvtt
 https://iptv.aibo.lol/hk/tvbp-webvtt.m3u8
 #EXTINF:-1 tvg-id="黄金华剧台(WebVTT字幕)" tvg-name="黄金华剧台(WebVTT字幕)" group-title="jackTV-港澳台",黄金华剧台(WebVTT字幕)
 https://cdn.qd.je/163189/hjhjt
+#EXTINF:-1 tvg-id="黄金华剧台(WebVTT字幕)" tvg-name="黄金华剧台(WebVTT字幕)" group-title="jackTV-港澳台",黄金华剧台(WebVTT字幕)
+https://iptv.aibo.lol/hk/hjhjt-webvtt.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="jackTV-港澳台",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" group-title="jackTV-港澳台",广州综合
@@ -797,8 +799,6 @@ https://cdn.qd.je/163189.php?id=cctv16
 https://cdn.qd.je/163189.php?id=cctv16-2
 #EXTINF:-1 tvg-name="五星体育B" tvg-logo="https://logo.catvod.com/五星体育B.png" group-title="juli-CDN频道",五星体育B
 https://cdn.qd.je/163189.php?id=wxty
-#EXTINF:-1 tvg-name="大湾区卫视(外)" tvg-logo="https://logo.catvod.com/大湾区卫视(外).png" group-title="juli-CDN频道",大湾区卫视(外)
-http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="juli-CDN频道",大湾区卫视
 http://107.150.60.122/live/nfws.m3u8
 #EXTINF:-1 tvg-name="大灣區衛視1" tvg-logo="https://logo.catvod.com/大灣區衛視1.png" group-title="juli-CDN频道",大灣區衛視1
@@ -845,8 +845,20 @@ http://42.193.195.163:3000/623899368
 http://42.193.195.163:3000/651632648
 #EXTINF:-1 tvg-name="陕西卫视D" tvg-logo="https://logo.catvod.com/陕西卫视D.png" group-title="juli-卫视C",陕西卫视D
 http://42.193.195.163:3000/738910838
+#EXTINF:-1 tvg-name="江西卫视D" tvg-logo="https://logo.catvod.com/江西卫视D.png" group-title="juli-卫视C",江西卫视D
+http://42.193.195.163:3000/783847495
+#EXTINF:-1 tvg-name="湖北卫视D" tvg-logo="https://logo.catvod.com/湖北卫视D.png" group-title="juli-卫视C",湖北卫视D
+http://42.193.195.163:3000/947472496
+#EXTINF:-1 tvg-name="吉林卫视D" tvg-logo="https://logo.catvod.com/吉林卫视D.png" group-title="juli-卫视C",吉林卫视D
+http://42.193.195.163:3000/947472500
 #EXTINF:-1 tvg-name="青海卫视D" tvg-logo="https://logo.catvod.com/青海卫视D.png" group-title="juli-卫视C",青海卫视D
 http://42.193.195.163:3000/947472506
+#EXTINF:-1 tvg-name="河南卫视D" tvg-logo="https://logo.catvod.com/河南卫视D.png" group-title="juli-卫视C",河南卫视D
+http://42.193.195.163:3000/790187291
+#EXTINF:-1 tvg-name="东南卫视D" tvg-logo="https://logo.catvod.com/东南卫视D.png" group-title="juli-卫视C",东南卫视D
+http://42.193.195.163:3000/790187291
+#EXTINF:-1 tvg-name="北京卫视D" tvg-logo="https://logo.catvod.com/北京卫视D.png" group-title="juli-卫视C",北京卫视D
+http://42.193.195.163:3000/630287636
 #EXTINF:-1 tvg-name="射雕英雄传D" tvg-logo="https://logo.catvod.com/射雕英雄传D.png" group-title="juli-卫视C",射雕英雄传D
 http://129.211.14.102:22223/1354210357
 #EXTINF:-1 tvg-name="情满四合院D" tvg-logo="https://logo.catvod.com/情满四合院D.png" group-title="juli-卫视C",情满四合院D
@@ -893,6 +905,8 @@ http://104.152.209.49:8181/720p/cctv11.m3u8
 http://104.152.209.49:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="juli-央卫D",CCTV-13新闻D
 http://104.152.209.49:8181/720p/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="juli-央卫D",CCTV-14少儿D
+http://104.152.209.49:8181/720p/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="juli-央卫D",CCTV-15音乐D
 http://104.152.209.49:8181/720p/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="juli-央卫D",CCTV-16奥林匹克D
@@ -913,12 +927,6 @@ http://104.152.209.49:8181/720p/fyjc.m3u8
 http://104.152.209.49:8181/720p/hjjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技D" tvg-logo="https://logo.catvod.com/CCTV-兵器科技D.png" group-title="juli-央卫D",CCTV-兵器科技D
 http://104.152.209.49:8181/720p/gfjs.m3u8
-#EXTINF:-1 tvg-name="CCTV-女性时尚D" tvg-logo="https://logo.catvod.com/CCTV-女性时尚D.png" group-title="juli-央卫D",CCTV-女性时尚D
-http://104.152.209.49:8181/720p/nxss.m3u8
-#EXTINF:-1 tvg-name="CCTV-世界地理D" tvg-logo="https://logo.catvod.com/CCTV-世界地理D.png" group-title="juli-央卫D",CCTV-世界地理D
-http://104.152.209.49:8181/720p/sjdl.m3u8
-#EXTINF:-1 tvg-name="CCTV-卫生健康D" tvg-logo="https://logo.catvod.com/CCTV-卫生健康D.png" group-title="juli-央卫D",CCTV-卫生健康D
-http://104.152.209.49:8181/720p/wsjk.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品D" tvg-logo="https://logo.catvod.com/CCTV-央视文化精品D.png" group-title="juli-央卫D",CCTV-央视文化精品D
 http://104.152.209.49:8181/720p/ysjp.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐D" tvg-logo="https://logo.catvod.com/CCTV-风云音乐D.png" group-title="juli-央卫D",CCTV-风云音乐D
@@ -935,6 +943,8 @@ http://104.152.209.49:8181/720p/cwjd.m3u8
 http://104.152.209.49:8181/720p/hnws.m3u8
 #EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
 http://104.152.209.49:8181/720p/hews.m3u8
+#EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
+http://104.152.209.49:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
 http://104.152.209.49:8181/720p/tjws.m3u8
 #EXTINF:-1 tvg-name="安徽卫视D" tvg-logo="https://logo.catvod.com/安徽卫视D.png" group-title="juli-央卫D",安徽卫视D
