@@ -8,8 +8,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-4.png" group-title="jackTV-央视",CCTV-4 中文国际
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
-https://iptv.aibo.lol/live/cctv5.m3u8
-#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
 https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
 https://cdn.qd.je/163189/cctv5-2
@@ -57,6 +55,8 @@ https://cdn.qd.je/163189/cctv16-2
 https://iptv.aibo.lol/qd/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-16.png" group-title="jackTV-央视",CCTV-16 奥林匹克
 https://iptv.aibo.lol/qd/cctv16-2.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/安徽卫视.png" group-title="jackTV-卫视",安徽卫视
+https://iptv.aibo.lol/live/anhuiws.m3u8
 #EXTINF:-1 tvg-id="世界杯中文多角度01" tvg-name="世界杯中文多角度01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="jackTV-世界杯中文多角度",世界杯中文多角度01
 https://iptv.aibo.lol/live/1.flv
 #EXTINF:-1 tvg-id="世界杯中文多角度02" tvg-name="世界杯中文多角度02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="jackTV-世界杯中文多角度",世界杯中文多角度02
@@ -107,8 +107,6 @@ https://iptv.aibo.lol/live/23.flv
 https://iptv.aibo.lol/live/24.flv
 #EXTINF:-1 tvg-id="Fox Sports 4K HDR" tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="jackTV-海外高清",Fox Sports 4K HDR
 https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="jackTV-卫视",五星体育
-http://82.156.243.185:54321/wxty.php
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="jackTV-卫视",五星体育
 https://cdn.qd.je/163189/wxty
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/wxty.png" group-title="jackTV-卫视",五星体育
@@ -887,8 +885,6 @@ http://104.152.209.49:8181/720p/cctv14.m3u8
 http://104.152.209.49:8181/720p/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="juli-央卫D",CCTV-16奥林匹克D
 http://104.152.209.49:8181/720p/cctv16.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="juli-央卫D",CCTV-17农业农村D
-http://104.152.209.49:8181/720p/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="juli-央卫D",CCTV-5+HDD
 http://104.152.209.49:8181/720p/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="juli-央卫D",CCTV-4K超高清D
@@ -899,6 +895,8 @@ http://104.152.209.49:8181/720p/cctv8k.m3u8
 http://104.152.209.49:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场D" tvg-logo="https://logo.catvod.com/CCTV-风云剧场D.png" group-title="juli-央卫D",CCTV-风云剧场D
 http://104.152.209.49:8181/720p/fyjc.m3u8
+#EXTINF:-1 tvg-name="CCTV-怀旧剧场D" tvg-logo="https://logo.catvod.com/CCTV-怀旧剧场D.png" group-title="juli-央卫D",CCTV-怀旧剧场D
+http://104.152.209.49:8181/720p/hjjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技D" tvg-logo="https://logo.catvod.com/CCTV-兵器科技D.png" group-title="juli-央卫D",CCTV-兵器科技D
 http://104.152.209.49:8181/720p/gfjs.m3u8
 #EXTINF:-1 tvg-name="CCTV-女性时尚D" tvg-logo="https://logo.catvod.com/CCTV-女性时尚D.png" group-title="juli-央卫D",CCTV-女性时尚D
