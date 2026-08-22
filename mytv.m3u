@@ -18,8 +18,6 @@ https://iptv.aibo.lol/qd/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV-5 体育" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5.png" group-title="jackTV-央视",CCTV-5 体育
 https://iptv.aibo.lol/qd/cctv5-2.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="jackTV-央视",CCTV-5+ 体育赛事
-https://iptv.aibo.lol/live/cctv5plus.m3u8
-#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="jackTV-央视",CCTV-5+ 体育赛事
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/CCTV-5+.png" group-title="jackTV-央视",CCTV-5+ 体育赛事
 https://cdn.qd.je/163189/cctv5p-2
@@ -307,6 +305,8 @@ https://cdn.qd.je/163189/hxws
 https://cdn.qd.je/163189/hxws2
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="jackTV-卫视",海峡卫视
 https://iptv.aibo.lol/qd/hxws.m3u8
+#EXTINF:-1 tvg-id="天映新加坡" tvg-name="天映新加坡" group-title="jackTV-港澳台",天映新加坡
+https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="jackTV-港澳台",天映经典
 https://cdn.qd.je/163189/ccm
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" group-title="jackTV-港澳台",天映经典
@@ -641,14 +641,8 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv15
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="juli-卫央频道",CCTV17
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://logo.catvod.com/靖天映画.png" group-title="juli-台湾频道",靖天映画
-https://cdn12.178.indevs.in/163189/jtyh
 #EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://logo.catvod.com/靖天戏剧台.png" group-title="juli-台湾频道",靖天戏剧台
 https://cdn12.178.indevs.in/163189/jtxj
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://logo.catvod.com/靖天电影台.png" group-title="juli-台湾频道",靖天电影台
-https://cdn12.178.indevs.in/163189/jtdy
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://logo.catvod.com/靖洋戏剧台.png" group-title="juli-台湾频道",靖洋戏剧台
-https://cdn12.178.indevs.in/163189/jyxj
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://logo.catvod.com/龙华电影.png" group-title="juli-台湾频道",龙华电影
 http://cdn8.123.rr.kg/163189/lhdy
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://logo.catvod.com/龙华经典.png" group-title="juli-台湾频道",龙华经典
@@ -665,22 +659,16 @@ http://cdn8.123.rr.kg/163189/lhyp
 http://cdn8.123.rr.kg/163189/lhkt
 #EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://logo.catvod.com/民视影剧台.png" group-title="juli-台湾频道",民视影剧台
 https://cdn12.178.indevs.in/163189/msyj
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://logo.catvod.com/公视戏剧.png" group-title="juli-台湾频道",公视戏剧
+https://cdn12.178.indevs.in/163189/gsxj
 #EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://logo.catvod.com/采昌影剧台.png" group-title="juli-台湾频道",采昌影剧台
 https://cdn12.178.indevs.in/163189/ccyj
-#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://logo.catvod.com/影迷数位电影台.png" group-title="juli-台湾频道",影迷数位电影台
-https://cdn12.178.indevs.in/163189/ymswdyt
 #EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://logo.catvod.com/amc电影台.png" group-title="juli-台湾频道",amc电影台
 https://cdn12.178.indevs.in/163189/amc
 #EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://logo.catvod.com/CinemaWorld.png" group-title="juli-台湾频道",CinemaWorld
 https://cdn12.178.indevs.in/163189/cinemaworld
-#EXTINF:-1 tvg-name="CMusic" tvg-logo="https://logo.catvod.com/CMusic.png" group-title="juli-台湾频道",CMusic
-https://cdn12.178.indevs.in/163189/cmusic
 #EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="juli-台湾频道",DreamWorks梦工厂动画
 https://cdn12.178.indevs.in/163189/dreamworks
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="juli-台湾频道",精选动漫台
-https://cdn12.178.indevs.in/163189/jxdmt
-#EXTINF:-1 tvg-name="金光布袋戏1" tvg-logo="https://logo.catvod.com/金光布袋戏1.png" group-title="juli-台湾频道",金光布袋戏1
-https://cdn12.178.indevs.in/163189/jgbdx
 #EXTINF:-1 tvg-name="金光布袋戏2" tvg-logo="https://logo.catvod.com/金光布袋戏2.png" group-title="juli-台湾频道",金光布袋戏2
 http://cdn3.123.rr.kg/stream/live/jgbdx/
 #EXTINF:-1 tvg-name="八度空间B" tvg-logo="https://logo.catvod.com/八度空间B.png" group-title="juli-CDN频道",八度空间B
@@ -825,10 +813,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 https://cdn12.178.indevs.in/163189/msyj
 #EXTINF:-1 tvg-name="靖天戲劇台C" tvg-logo="https://logo.catvod.com/靖天戲劇台C.png" group-title="juli-台湾C",靖天戲劇台C
 https://cdn12.178.indevs.in/163189/jtxj
-#EXTINF:-1 tvg-name="靖洋戲劇台C" tvg-logo="https://logo.catvod.com/靖洋戲劇台C.png" group-title="juli-台湾C",靖洋戲劇台C
-https://cdn12.178.indevs.in/163189/jyxj
-#EXTINF:-1 tvg-name="影迷数位电影台C" tvg-logo="https://logo.catvod.com/影迷数位电影台C.png" group-title="juli-台湾C",影迷数位电影台C
-https://cdn12.178.indevs.in/163189/ymswdyt
 #EXTINF:-1 tvg-name="射雕英雄传D" tvg-logo="https://logo.catvod.com/射雕英雄传D.png" group-title="juli-卫视C",射雕英雄传D
 http://129.211.14.102:22223/1354210357
 #EXTINF:-1 tvg-name="情满四合院D" tvg-logo="https://logo.catvod.com/情满四合院D.png" group-title="juli-卫视C",情满四合院D
