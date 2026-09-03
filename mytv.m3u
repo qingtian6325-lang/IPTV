@@ -97,8 +97,6 @@ http://cdn6.123.rr.kg/163189/amzy
 http://cdn6.123.rr.kg/163189/amlh
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://logo.catvod.com/Astro AEC.png" group-title="juli-港澳频道",Astro AEC
 http://cdn3.123.rr.kg/stream/live/aec/
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://logo.catvod.com/Astro QJ.png" group-title="juli-港澳频道",Astro QJ
-http://cdn3.123.rr.kg/stream/live/qj/
 #EXTINF:-1 tvg-name="翡翠台(WebVTT字幕)" tvg-logo="https://logo.catvod.com/翡翠台(WebVTT字幕).png" group-title="juli-港澳频道",翡翠台(WebVTT字幕)
 http://cdn10.123.rr.kg/163189/fct/
 #EXTINF:-1 tvg-name="明珠台(WebVTT字幕)" tvg-logo="https://logo.catvod.com/明珠台(WebVTT字幕).png" group-title="juli-港澳频道",明珠台(WebVTT字幕)
@@ -301,6 +299,8 @@ https://cdn.qd.je/163189.php?id=lhxj
 https://cdn.qd.je/163189.php?id=lhyp
 #EXTINF:-1 tvg-name="龙华卡通B" tvg-logo="https://logo.catvod.com/龙华卡通B.png" group-title="juli-CDN频道",龙华卡通B
 https://cdn.qd.je/163189.php?id=lhkt
+#EXTINF:-1 tvg-name="金光布袋戏B" tvg-logo="https://logo.catvod.com/金光布袋戏B.png" group-title="juli-CDN频道",金光布袋戏B
+https://cdn.qd.je/163189.php?id=jgbdx
 #EXTINF:-1 tvg-name="海峡卫视1B" tvg-logo="https://logo.catvod.com/海峡卫视1B.png" group-title="juli-CDN频道",海峡卫视1B
 https://cdn.qd.je/163189.php?id=hxws
 #EXTINF:-1 tvg-name="海峡卫视2B" tvg-logo="https://logo.catvod.com/海峡卫视2B.png" group-title="juli-CDN频道",海峡卫视2B
@@ -381,14 +381,14 @@ http://104.152.209.49:8181/720p/cctv9.m3u8
 http://104.152.209.49:8181/720p/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="juli-央卫D",CCTV-11戏曲D
 http://104.152.209.49:8181/720p/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="juli-央卫D",CCTV-12社会与法D
+http://104.152.209.49:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="juli-央卫D",CCTV-13新闻D
 http://104.152.209.49:8181/720p/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="juli-央卫D",CCTV-14少儿D
 http://104.152.209.49:8181/720p/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="juli-央卫D",CCTV-15音乐D
 http://104.152.209.49:8181/720p/cctv15.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="juli-央卫D",CCTV-16奥林匹克D
-http://104.152.209.49:8181/720p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="juli-央卫D",CCTV-17农业农村D
 http://104.152.209.49:8181/720p/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="juli-央卫D",CCTV-5+HDD
@@ -421,10 +421,10 @@ http://104.152.209.49:8181/720p/ystq.m3u8
 http://104.152.209.49:8181/720p/fyzq.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球D" tvg-logo="https://logo.catvod.com/CCTV-高尔夫网球D.png" group-title="juli-央卫D",CCTV-高尔夫网球D
 http://104.152.209.49:8181/720p/gefwq.m3u8
+#EXTINF:-1 tvg-name="重温经典D" tvg-logo="https://logo.catvod.com/重温经典D.png" group-title="juli-央卫D",重温经典D
+http://104.152.209.49:8181/720p/cwjd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视D" tvg-logo="https://logo.catvod.com/湖南卫视D.png" group-title="juli-央卫D",湖南卫视D
 http://104.152.209.49:8181/720p/hnws.m3u8
-#EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
-http://104.152.209.49:8181/720p/hews.m3u8
 #EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
 http://104.152.209.49:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
@@ -531,6 +531,8 @@ https://cdn.qd.je/163189/lhxj
 https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-name="龍華卡通" group-title="Mytv-mytv",龙华卡通
 https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="Mytv-mytv",金光布袋戏
+https://cdn.qd.je/163189/jgbdx
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="Mytv-mytv",华丽翡翠台
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="Mytv-mytv",TVB亚洲武侠
@@ -561,8 +563,6 @@ https://cdn.qd.je/163189/jade2
 https://cdn.qd.je/163189/aod
 #EXTINF:-1 tvg-name="AEC" group-title="Mytv-mytv",Astro AEC
 https://cdn.qd.je/163189/aec
-#EXTINF:-1 tvg-name="QJ" group-title="Mytv-mytv",Astro QJ
-https://cdn.qd.je/163189/qj
 #EXTINF:-1 tvg-name="HUA HEE DAI" group-title="Mytv-mytv",Astro欢喜台
 https://cdn.qd.je/163189/hxt
 #EXTINF:-1 tvg-name="iQIYI" group-title="Mytv-mytv",爱奇艺
