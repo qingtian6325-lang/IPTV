@@ -409,18 +409,18 @@ http://104.152.209.49:8181/720p/nxss.m3u8
 http://104.152.209.49:8181/720p/sjdl.m3u8
 #EXTINF:-1 tvg-name="CCTV-卫生健康D" tvg-logo="https://logo.catvod.com/CCTV-卫生健康D.png" group-title="juli-央卫D",CCTV-卫生健康D
 http://104.152.209.49:8181/720p/wsjk.m3u8
+#EXTINF:-1 tvg-name="CCTV-央视文化精品D" tvg-logo="https://logo.catvod.com/CCTV-央视文化精品D.png" group-title="juli-央卫D",CCTV-央视文化精品D
+http://104.152.209.49:8181/720p/ysjp.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐D" tvg-logo="https://logo.catvod.com/CCTV-风云音乐D.png" group-title="juli-央卫D",CCTV-风云音乐D
 http://104.152.209.49:8181/720p/fyyy.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视台球D" tvg-logo="https://logo.catvod.com/CCTV-央视台球D.png" group-title="juli-央卫D",CCTV-央视台球D
 http://104.152.209.49:8181/720p/ystq.m3u8
+#EXTINF:-1 tvg-name="CCTV-风云足球D" tvg-logo="https://logo.catvod.com/CCTV-风云足球D.png" group-title="juli-央卫D",CCTV-风云足球D
+http://104.152.209.49:8181/720p/fyzq.m3u8
 #EXTINF:-1 tvg-name="CCTV-高尔夫网球D" tvg-logo="https://logo.catvod.com/CCTV-高尔夫网球D.png" group-title="juli-央卫D",CCTV-高尔夫网球D
 http://104.152.209.49:8181/720p/gefwq.m3u8
-#EXTINF:-1 tvg-name="重温经典D" tvg-logo="https://logo.catvod.com/重温经典D.png" group-title="juli-央卫D",重温经典D
-http://104.152.209.49:8181/720p/cwjd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视D" tvg-logo="https://logo.catvod.com/湖南卫视D.png" group-title="juli-央卫D",湖南卫视D
 http://104.152.209.49:8181/720p/hnws.m3u8
-#EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
-http://104.152.209.49:8181/720p/hews.m3u8
 #EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
 http://104.152.209.49:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
@@ -559,8 +559,6 @@ https://cdn.qd.je/163189/aec
 https://cdn.qd.je/163189/hxt
 #EXTINF:-1 tvg-name="iQIYI" group-title="Mytv-mytv",爱奇艺
 https://cdn.qd.je/163189/iqiyi
-#EXTINF:-1 tvg-name="天映马来西亚" group-title="Mytv-mytv",天映频道
-https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="天映经典" group-title="Mytv-mytv",天映经典
 https://cdn.qd.je/163189/ccm2
 #EXTINF:-1 tvg-name="TVB星河" group-title="Mytv-mytv",TVB星河
