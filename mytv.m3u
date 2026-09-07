@@ -299,6 +299,8 @@ https://cdn.qd.je/163189.php?id=lhxj
 https://cdn.qd.je/163189.php?id=lhyp
 #EXTINF:-1 tvg-name="龙华卡通B" tvg-logo="https://logo.catvod.com/龙华卡通B.png" group-title="juli-CDN频道",龙华卡通B
 https://cdn.qd.je/163189.php?id=lhkt
+#EXTINF:-1 tvg-name="金光布袋戏B" tvg-logo="https://logo.catvod.com/金光布袋戏B.png" group-title="juli-CDN频道",金光布袋戏B
+https://cdn.qd.je/163189.php?id=jgbdx
 #EXTINF:-1 tvg-name="海峡卫视1B" tvg-logo="https://logo.catvod.com/海峡卫视1B.png" group-title="juli-CDN频道",海峡卫视1B
 https://cdn.qd.je/163189.php?id=hxws
 #EXTINF:-1 tvg-name="海峡卫视2B" tvg-logo="https://logo.catvod.com/海峡卫视2B.png" group-title="juli-CDN频道",海峡卫视2B
@@ -393,10 +395,10 @@ http://104.152.209.49:8181/720p/cctv15.m3u8
 http://104.152.209.49:8181/720p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="juli-央卫D",CCTV-17农业农村D
 http://104.152.209.49:8181/720p/cctv17.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="juli-央卫D",CCTV-5+HDD
+http://104.152.209.49:8181/720p/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="juli-央卫D",CCTV-4K超高清D
 http://104.152.209.49:8181/720p/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="juli-央卫D",CCTV-8K超高清D
-http://104.152.209.49:8181/720p/cctv8k.m3u8
 #EXTINF:-1 tvg-name="CCTV-第一剧场D" tvg-logo="https://logo.catvod.com/CCTV-第一剧场D.png" group-title="juli-央卫D",CCTV-第一剧场D
 http://104.152.209.49:8181/720p/dyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云剧场D" tvg-logo="https://logo.catvod.com/CCTV-风云剧场D.png" group-title="juli-央卫D",CCTV-风云剧场D
@@ -425,10 +427,10 @@ http://104.152.209.49:8181/720p/gefwq.m3u8
 http://104.152.209.49:8181/720p/cwjd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视D" tvg-logo="https://logo.catvod.com/湖南卫视D.png" group-title="juli-央卫D",湖南卫视D
 http://104.152.209.49:8181/720p/hnws.m3u8
-#EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
-http://104.152.209.49:8181/720p/hews.m3u8
 #EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
 http://104.152.209.49:8181/720p/sdws.m3u8
+#EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
+http://104.152.209.49:8181/720p/tjws.m3u8
 #EXTINF:-1 tvg-name="安徽卫视D" tvg-logo="https://logo.catvod.com/安徽卫视D.png" group-title="juli-央卫D",安徽卫视D
 http://104.152.209.49:8181/720p/ahws.m3u8
 #EXTINF:-1 tvg-name="北京卫视D" tvg-logo="https://logo.catvod.com/北京卫视D.png" group-title="juli-央卫D",北京卫视D
@@ -529,6 +531,8 @@ https://cdn.qd.je/163189/lhxj
 https://cdn.qd.je/163189/lhyp
 #EXTINF:-1 tvg-name="龍華卡通" group-title="Mytv-mytv",龙华卡通
 https://cdn.qd.je/163189/lhkt
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="Mytv-mytv",金光布袋戏
+https://cdn.qd.je/163189/jgbdx
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="Mytv-mytv",华丽翡翠台
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="Mytv-mytv",TVB亚洲武侠
