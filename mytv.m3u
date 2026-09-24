@@ -17,8 +17,6 @@ http://cdn6.123.rr.kg/163189/tvbxh
 http://cdn10.123.rr.kg/163189/xinghe/
 #EXTINF:-1 tvg-name="华丽翡翠台1" tvg-logo="https://logo.catvod.com/华丽翡翠台1.png" group-title="juli-港澳频道",华丽翡翠台1
 http://cdn6.123.rr.kg/163189/hlfct
-#EXTINF:-1 tvg-name="华丽翡翠台2" tvg-logo="https://logo.catvod.com/华丽翡翠台2.png" group-title="juli-港澳频道",华丽翡翠台2
-http://cdn3.123.rr.kg/stream/live/hlt/
 #EXTINF:-1 tvg-name="华丽翡翠台(硬字幕)" tvg-logo="https://logo.catvod.com/华丽翡翠台(硬字幕).png" group-title="juli-港澳频道",华丽翡翠台(硬字幕)
 http://cdn6.123.rr.kg/163189/jade
 #EXTINF:-1 tvg-name="华丽翡翠台(新加坡)" tvg-logo="https://logo.catvod.com/华丽翡翠台(新加坡).png" group-title="juli-港澳频道",华丽翡翠台(新加坡)
@@ -29,6 +27,8 @@ http://cdn6.123.rr.kg/163189/tvbd
 http://cdn6.123.rr.kg/163189/fct
 #EXTINF:-1 tvg-name="翡翠台(字幕)" tvg-logo="https://logo.catvod.com/翡翠台(字幕).png" group-title="juli-港澳频道",翡翠台(字幕)
 http://cdn3.123.rr.kg/stream/tvb/fct/
+#EXTINF:-1 tvg-name="翡翠台4K(字幕)" tvg-logo="https://logo.catvod.com/翡翠台4K(字幕).png" group-title="juli-港澳频道",翡翠台4K(字幕)
+http://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://logo.catvod.com/天映频道.png" group-title="juli-港澳频道",天映频道
 http://cdn3.123.rr.kg/stream/live/typd/
 #EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://logo.catvod.com/天映新加坡.png" group-title="juli-港澳频道",天映新加坡
@@ -145,8 +145,6 @@ http://f.123.rr.kg/163189/cctv7
 http://f.123.rr.kg/163189/cctv8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="juli-卫央频道",CCTV9@
 http://f.123.rr.kg/163189/cctv9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="juli-卫央频道",CCTV10@
-http://f.123.rr.kg/163189/cctv10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="juli-卫央频道",CCTV11@
 http://f.123.rr.kg/163189/cctv11
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="juli-卫央频道",CCTV12@
@@ -373,10 +371,6 @@ http://104.152.209.49:8181/720p/cctv7.m3u8
 http://104.152.209.49:8181/720p/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="juli-央卫D",CCTV-9纪录D
 http://104.152.209.49:8181/720p/cctv9.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="juli-央卫D",CCTV-10科教D
-http://104.152.209.49:8181/720p/cctv10.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="juli-央卫D",CCTV-11戏曲D
-http://104.152.209.49:8181/720p/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="juli-央卫D",CCTV-12社会与法D
 http://104.152.209.49:8181/720p/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="juli-央卫D",CCTV-13新闻D
@@ -401,6 +395,8 @@ http://104.152.209.49:8181/720p/dyjc.m3u8
 http://104.152.209.49:8181/720p/fyjc.m3u8
 #EXTINF:-1 tvg-name="CCTV-怀旧剧场D" tvg-logo="https://logo.catvod.com/CCTV-怀旧剧场D.png" group-title="juli-央卫D",CCTV-怀旧剧场D
 http://104.152.209.49:8181/720p/hjjc.m3u8
+#EXTINF:-1 tvg-name="CCTV-兵器科技D" tvg-logo="https://logo.catvod.com/CCTV-兵器科技D.png" group-title="juli-央卫D",CCTV-兵器科技D
+http://104.152.209.49:8181/720p/gfjs.m3u8
 #EXTINF:-1 tvg-name="CCTV-女性时尚D" tvg-logo="https://logo.catvod.com/CCTV-女性时尚D.png" group-title="juli-央卫D",CCTV-女性时尚D
 http://104.152.209.49:8181/720p/nxss.m3u8
 #EXTINF:-1 tvg-name="CCTV-世界地理D" tvg-logo="https://logo.catvod.com/CCTV-世界地理D.png" group-title="juli-央卫D",CCTV-世界地理D
@@ -431,6 +427,8 @@ http://104.152.209.49:8181/720p/tjws.m3u8
 http://104.152.209.49:8181/720p/ahws.m3u8
 #EXTINF:-1 tvg-name="北京卫视D" tvg-logo="https://logo.catvod.com/北京卫视D.png" group-title="juli-央卫D",北京卫视D
 http://104.152.209.49:8181/720p/bjws.m3u8
+#EXTINF:-1 tvg-name="东方卫视D" tvg-logo="https://logo.catvod.com/东方卫视D.png" group-title="juli-央卫D",东方卫视D
+http://104.152.209.49:8181/720p/dfws.m3u8
 #EXTINF:-1 tvg-name="广东卫视D" tvg-logo="https://logo.catvod.com/广东卫视D.png" group-title="juli-央卫D",广东卫视D
 http://104.152.209.49:8181/720p/gdws.m3u8
 #EXTINF:-1 tvg-name="河南卫视D" tvg-logo="https://logo.catvod.com/河南卫视D.png" group-title="juli-央卫D",河南卫视D
@@ -545,8 +543,6 @@ https://cdn.qd.je/163189/xinghe
 https://cdn.qd.je/163189/typd
 #EXTINF:-1 tvg-name="天映经典" group-title="Mytv-mytv",天映经典
 https://cdn.qd.je/163189/ccm
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="Mytv-mytv",华丽翡翠台
-https://cdn.qd.je/163189/hlt
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="Mytv-mytv",华丽翡翠台(硬字幕)
 https://cdn.qd.je/163189/jade
 #EXTINF:-1 tvg-name="TVB Jade HD" group-title="Mytv-mytv",华丽翡翠台(新加坡)
