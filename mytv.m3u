@@ -127,16 +127,10 @@ http://cdn10.123.rr.kg/163189/hxws/
 http://cdn16.123.rr.kg/163189/hxws
 #EXTINF:-1 tvg-name="五星体育1" tvg-logo="https://logo.catvod.com/五星体育1.png" group-title="juli-卫央频道",五星体育1
 https://cdn15.163189.xyz/163189/wxty
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="juli-卫央频道",CCTV1@
-http://f.123.rr.kg/163189/cctv1
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="juli-卫央频道",CCTV4@
-http://f.123.rr.kg/163189/cctv4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="juli-卫央频道",CCTV5@
-http://f.123.rr.kg/163189/cctv5
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="juli-卫央频道",CCTV2@
+http://f.123.rr.kg/163189/cctv2
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="juli-卫央频道",CCTV6@
 http://f.123.rr.kg/163189/cctv6
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="juli-卫央频道",CCTV9@
-http://f.123.rr.kg/163189/cctv9
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="juli-卫央频道",CCTV15@
 http://f.123.rr.kg/163189/cctv15
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="juli-卫央频道",CCTV1
@@ -189,10 +183,6 @@ http://cdn8.123.rr.kg/163189/lhxj
 http://cdn8.123.rr.kg/163189/lhyp
 #EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://logo.catvod.com/龙华卡通.png" group-title="juli-台湾频道",龙华卡通
 http://cdn8.123.rr.kg/163189/lhkt
-#EXTINF:-1 tvg-name="纬来电影台" tvg-logo="https://logo.catvod.com/纬来电影台.png" group-title="juli-台湾频道",纬来电影台
-https://smt.1678520.xyz/163189/wldy
-#EXTINF:-1 tvg-name="纬来戏剧台" tvg-logo="https://logo.catvod.com/纬来戏剧台.png" group-title="juli-台湾频道",纬来戏剧台
-https://smt.1678520.xyz/163189/wlxj
 #EXTINF:-1 tvg-name="八度空间B" tvg-logo="https://logo.catvod.com/八度空间B.png" group-title="juli-CDN频道",八度空间B
 https://cdn.qd.je/163189.php?id=8tv
 #EXTINF:-1 tvg-name="CH8B" tvg-logo="https://logo.catvod.com/CH8B.png" group-title="juli-CDN频道",CH8B
@@ -349,6 +339,8 @@ http://104.152.209.49:8181/720p/cctv12.m3u8
 http://104.152.209.49:8181/720p/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="juli-央卫D",CCTV-14少儿D
 http://104.152.209.49:8181/720p/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="juli-央卫D",CCTV-15音乐D
+http://104.152.209.49:8181/720p/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="juli-央卫D",CCTV-16奥林匹克D
 http://104.152.209.49:8181/720p/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="juli-央卫D",CCTV-17农业农村D
@@ -371,8 +363,6 @@ http://104.152.209.49:8181/720p/gfjs.m3u8
 http://104.152.209.49:8181/720p/nxss.m3u8
 #EXTINF:-1 tvg-name="CCTV-世界地理D" tvg-logo="https://logo.catvod.com/CCTV-世界地理D.png" group-title="juli-央卫D",CCTV-世界地理D
 http://104.152.209.49:8181/720p/sjdl.m3u8
-#EXTINF:-1 tvg-name="CCTV-卫生健康D" tvg-logo="https://logo.catvod.com/CCTV-卫生健康D.png" group-title="juli-央卫D",CCTV-卫生健康D
-http://104.152.209.49:8181/720p/wsjk.m3u8
 #EXTINF:-1 tvg-name="CCTV-央视文化精品D" tvg-logo="https://logo.catvod.com/CCTV-央视文化精品D.png" group-title="juli-央卫D",CCTV-央视文化精品D
 http://104.152.209.49:8181/720p/ysjp.m3u8
 #EXTINF:-1 tvg-name="CCTV-风云音乐D" tvg-logo="https://logo.catvod.com/CCTV-风云音乐D.png" group-title="juli-央卫D",CCTV-风云音乐D
@@ -389,6 +379,8 @@ http://104.152.209.49:8181/720p/cwjd.m3u8
 http://104.152.209.49:8181/720p/hnws.m3u8
 #EXTINF:-1 tvg-name="河北卫视D" tvg-logo="https://logo.catvod.com/河北卫视D.png" group-title="juli-央卫D",河北卫视D
 http://104.152.209.49:8181/720p/hews.m3u8
+#EXTINF:-1 tvg-name="山东卫视D" tvg-logo="https://logo.catvod.com/山东卫视D.png" group-title="juli-央卫D",山东卫视D
+http://104.152.209.49:8181/720p/sdws.m3u8
 #EXTINF:-1 tvg-name="天津卫视D" tvg-logo="https://logo.catvod.com/天津卫视D.png" group-title="juli-央卫D",天津卫视D
 http://104.152.209.49:8181/720p/tjws.m3u8
 #EXTINF:-1 tvg-name="安徽卫视D" tvg-logo="https://logo.catvod.com/安徽卫视D.png" group-title="juli-央卫D",安徽卫视D
